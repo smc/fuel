@@ -31,12 +31,12 @@ msgstr "24 മണിക്കൂര്‍"
 #. Applications:
 #. Context: Information about Application
 msgid "About Application"
-msgstr "പ്രവർത്തനത്തെ കുറിച്ച്"
+msgstr "അപ്പ്ലിക്കേഷനെ കുറിച്ച്"
 
 #. Applications:
 #. Context: It shows accessibility function
 msgid "Accessibility"
-msgstr "സാര്‍വ്വജനികലഭ്യത"
+msgstr "പ്രാപ്യമായവ"
 
 #. Applications:
 #. Context: To make active
@@ -46,7 +46,7 @@ msgstr "സജീവമാക്കുക"
 #. Applications:
 #. Context: To make active the handset
 msgid "Activate Handset"
-msgstr "ഹാന്‍ഡ് സെറ്റ് സജീവമാക്കുക"
+msgstr "ഹസ്തോപകരണം സജീവമാക്കുക"
 
 #. Applications:
 #. Context: To add bookmark
@@ -56,12 +56,12 @@ msgstr "അടയാളക്കുറിപ്പ് ചേര്‍ക്ക�
 #. Applications:
 #. Context: To add contact
 msgid "Add Contact"
-msgstr "സമ്പർക്കം ചേര്‍ക്കുക"
+msgstr "ബന്ധങ്ങളെ ചേര്‍ക്കുക"
 
 #. Applications:
 #. Context: To add anything new
 msgid "Add New"
-msgstr "പുതിയത്"
+msgstr "പുതിയവ ചേര്‍ക്കൂ"
 
 #. Applications:
 #. Context: To add any new device like bluetooth
@@ -76,27 +76,27 @@ msgstr "ആല്‍ബത്തിലേക്ക് ചേര്‍ക്ക�
 #. Applications:
 #. Context: To add to the Contact
 msgid "Add to Contact"
-msgstr "വിലാസത്തിലേക്ക് ചേര്‍ക്കുക"
+msgstr "ബന്ധത്തിലേക്ക് ചേര്‍ക്കുക"
 
 #. Applications:
 #. Context: To add to Home Screen
 msgid "Add to Home Screen"
-msgstr "പ്രധാന സ്ക്രീനിലേക്ക് ചേര്‍ക്കുക"
+msgstr "പൂമുഖത്തേയ്ക്ക് വെയ്ക്കുക"
 
 #. Applications:
 #. Context: To add to Playlist
 msgid "Add to Playlist"
-msgstr "പ്ലേലിസ്റ്റിലേയ്ക്കു് ചേര്‍ക്കുക"
+msgstr "പണിച്ചാര്‍ത്തിലേയ്ക്ക് ചേര്‍ക്കുക"
 
 #. Applications:
 #. Context: Technically Advanced Settings
 msgid "Advanced"
-msgstr "സങ്കീര്‍ണ്ണമായ"
+msgstr "വികസിതമായ"
 
 #. Applications:
 #. Context: A setting to disable cellular, Wi-Fi, and Bluetooth during plane journey due to technical reason of aircraft operation
 msgid "Airplane Mode"
-msgstr "വിമാന രീതി"
+msgstr "വിമാനമട്ട്"
 
 #. Applications:
 #. Context: Clock with alarm
@@ -116,7 +116,7 @@ msgstr "അലാറം വെയ്ക്കു"
 #. Applications:
 #. Context: It is an action of alarm only once means no snooze after that
 msgid "Alarm Once"
-msgstr "അലാറം ഒരിക്കല്‍"
+msgstr "അലാറം ഒരുതവണ"
 
 #. Applications:
 #. Context: Time of Alarm
@@ -126,7 +126,7 @@ msgstr "അലാറം സമയം"
 #. Applications:
 #. Context: Tone of Alarm
 msgid "Alarm Tone"
-msgstr "അലാറം ശബ്ദം"
+msgstr "അലാറം ധ്വനി"
 
 #. Applications:
 #. Context: A collection of audio, video or pictures related to particular purpose
