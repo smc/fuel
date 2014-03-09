@@ -181,7 +181,7 @@ msgstr "സ്ഥലകോഡ്"
 #. Applications:
 #. Context: Selection of Performer of Music or Video
 msgid "Artist"
-msgstr "കലാകാരാൻ"
+msgstr "കലാകാരൻ"
 
 #. Applications:
 #. Context: Selection of Artist and Album
@@ -196,7 +196,7 @@ msgstr "ആരോഹണത്തില്‍"
 #. Applications:
 #. Context: automatic
 msgid "Auto"
-msgstr "സ്വതേ"
+msgstr "സ്വയം"
 
 #. Applications:
 #. Context: Automatic update of Date and Time
@@ -206,22 +206,22 @@ msgstr "തിയതിയും സമയവും സ്വയം പുതു
 #. Applications:
 #. Context: Anything that works without outside control, opposite to manual
 msgid "Automatic"
-msgstr "തനിയെ"
+msgstr "സ്വയമായി"
 
 #. Applications:
 #. Context: Keyguard that works automatically
 msgid "Automatic Keyguard"
-msgstr "തനിയെയുള്ള കീപൂട്ട്"
+msgstr "സ്വയമായ കീപൂട്ട്"
 
 #. Applications:
 #. Context: An option to redial automatically
 msgid "Automatic Redial"
-msgstr "തനിയെ വീണ്ടും വിളിക്കുക"
+msgstr "സ്വയമായി വീണ്ടും വിളിക്കുക"
 
 #. Applications:
 #. Context: A function by which someone retrieve automatically instead manually
 msgid "Automatic Retrieval"
-msgstr "തനിയെ ലഭ്യമാക്കല്‍"
+msgstr "സ്വയം വീണ്ടെടുക്കുക"
 
 #. Applications:
 #. Context: to move backward
@@ -231,7 +231,7 @@ msgstr "പുറകോട്ട്"
 #. Applications:
 #. Context: Timeout period for backlight screen or button
 msgid "Backlight Timeout"
-msgstr "തെളിച്ചം കുറയേണ്ടത്"
+msgstr "പിന്‍വെളിച്ചം കെടുത്തേണ്ടത്"
 
 #. Applications:
 #. Context: Source of Power of any device
@@ -241,12 +241,12 @@ msgstr "ബാറ്ററി"
 #. Applications:
 #. Context: profile for incoming phone calls where tone only beep once
 msgid "Beep Once"
-msgstr "ഒരിക്കല്‍ ബീപ്പ് ചെയ്യുക"
+msgstr "ഒരിക്കല്‍ ശബ്ദിയ്ക്കുക"
 
 #. Applications:
 #. Context: To block popup
 msgid "Block Popup"
-msgstr "പൊങ്ങിവരല്‍ തടയുക"
+msgstr "പൊട്ടിവിടരല്‍ തടയുക"
 
 #. Applications:
 #. Context: A device
@@ -256,7 +256,7 @@ msgstr "ബ്ലൂടൂത്ത്"
 #. Applications:
 #. Context: A preferred selection of links etc that user wants to refer when s/he needs
 msgid "Bookmarks"
-msgstr "അടയാളം"
+msgstr "അടയാളകുറിപ്പ്"
 
 #. Applications:
 #. Context: luminance of a screen
@@ -276,7 +276,7 @@ msgstr "കലണ്ടര്‍"
 #. Applications:
 #. Context: An action to bar a call
 msgid "Call Barring"
-msgstr "വിളി തടയല്‍"
+msgstr "വിളി നിരോധനം"
 
 #. Applications:
 #. Context: Action to divert call
@@ -286,7 +286,7 @@ msgstr "വിളി തിരിച്ചുവിടല്‍"
 #. Applications:
 #. Context: Duration of call
 msgid "Call Duration"
-msgstr "വിളിയുടെ ദൈര്‍ഘ്യം"
+msgstr "വിളിദൈര്‍ഘ്യം"
 
 #. Applications:
 #. Context: Log of call
@@ -311,7 +311,7 @@ msgstr "വിളിയുടെ സമയം"
 #. Applications:
 #. Context: Function that tracks the call
 msgid "Call Trackers"
-msgstr ""
+msgstr "വിളി സൂചിക"
 
 #. Applications:
 #. Context: function that enable user to suspend the current telephone call and switch to the new incoming call
@@ -336,7 +336,7 @@ msgstr "എല്ലാ നിരോധനങ്ങളും കളയുക"
 #. Applications:
 #. Context: To capture photo or screenshot
 msgid "Capture"
-msgstr "പിടിക്കുക"
+msgstr "രേഖപ്പെടുത്തുക"
 
 #. Applications:
 #. Context: Network Vendor
@@ -346,7 +346,7 @@ msgstr "സേവനദാതാവ്"
 #. Applications:
 #. Context: function that display carrier or cell phone information
 msgid "Cell Info Display"
-msgstr "സെൽ വിവരം"
+msgstr "ഉപകരണ വിവരം"
 
 #. Applications:
 #. Context: Action to change the access code
