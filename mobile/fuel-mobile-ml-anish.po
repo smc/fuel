@@ -1,5 +1,6 @@
 # Balasankar C <c.balasankar@gmail.com>, 2013. #zanata
 # Anish Sheela <aneesh.nl@gmail.com>, 2014.
+# Akhilan <mail@akhilan.in>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: FUEL Mobile\n"
@@ -9,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "PO-Revision-Date: 2014-03-07 08:01+0530\n"
-"Last-Translator: Anish Sheela <aneesh.nl@gmail.com>\n"
+"Last-Translator: Akhilan <mail@akhilan.in>\n"
 "Language-Team: Swatantra Malayalam Computing <discuss@lists.smc.org.in>\n"
 "Language: ml\n"
 "X-Generator: Zanata 3.2.3\n"
@@ -55,12 +56,12 @@ msgstr "അടയാളക്കുറിപ്പ് ചേര്‍ക്ക�
 #. Applications:
 #. Context: To add contact
 msgid "Add Contact"
-msgstr "ബന്ധം ചേര്‍ക്കുക"
+msgstr "സമ്പർക്കം ചേര്‍ക്കുക"
 
 #. Applications:
 #. Context: To add anything new
 msgid "Add New"
-msgstr "പുതിയത് ചേര്‍ക്കുക"
+msgstr "പുതിയത്"
 
 #. Applications:
 #. Context: To add any new device like bluetooth
@@ -105,7 +106,7 @@ msgstr "അലാറം ഘടികാരം"
 #. Applications:
 #. Context: Alarm is off
 msgid "Alarm Off"
-msgstr "അലാറം അണയ്ക്കു"
+msgstr "അലാറം നിർത്തൂ"
 
 #. Applications:
 #. Context: Alarm is on
@@ -165,7 +166,7 @@ msgstr "കോള്‍ എടുക്കു"
 #. Applications:
 #. Context: It is like Apps Store
 msgid "Application Manager"
-msgstr "പ്രവര്‍ത്തക പാലകന്‍"
+msgstr "പ്രവര്‍ത്തകപാലകന്‍"
 
 #. Applications:
 #. Context: Network Area
@@ -175,17 +176,17 @@ msgstr "സ്ഥലം"
 #. Applications:
 #. Context: Network Area Code
 msgid "Area Code"
-msgstr "സ്ഥല കോഡ്"
+msgstr "സ്ഥലകോഡ്"
 
 #. Applications:
 #. Context: Selection of Performer of Music or Video
 msgid "Artist"
-msgstr "കലാകാര്‍"
+msgstr "കലാകാരാൻ"
 
 #. Applications:
 #. Context: Selection of Artist and Album
 msgid "Artists and Albums"
-msgstr "കലാകാരും ആല്‍ബങ്ങളും"
+msgstr "കലാകാരന്മാരും ആല്‍ബങ്ങളും"
 
 #. Applications:
 #. Context: Moving upward
@@ -200,7 +201,7 @@ msgstr "സ്വതേ"
 #. Applications:
 #. Context: Automatic update of Date and Time
 msgid "Auto-update of Date and Time"
-msgstr "തിയതിയും സമയവും സ്വയം ക്രമീകരിക്കുക"
+msgstr "തിയതിയും സമയവും സ്വയം പുതുക്കുക"
 
 #. Applications:
 #. Context: Anything that works without outside control, opposite to manual
@@ -230,7 +231,7 @@ msgstr "പുറകോട്ട്"
 #. Applications:
 #. Context: Timeout period for backlight screen or button
 msgid "Backlight Timeout"
-msgstr ""
+msgstr "തെളിച്ചം കുറയേണ്ടത്"
 
 #. Applications:
 #. Context: Source of Power of any device
@@ -285,12 +286,12 @@ msgstr "വിളി തിരിച്ചുവിടല്‍"
 #. Applications:
 #. Context: Duration of call
 msgid "Call Duration"
-msgstr "വിളിയുടെ ദൈര്‍ഖ്യം"
+msgstr "വിളിയുടെ ദൈര്‍ഘ്യം"
 
 #. Applications:
 #. Context: Log of call
 msgid "Call Log"
-msgstr "വിളി കണക്ക്"
+msgstr "വിളിയുടെ നാൾവഴി"
 
 #. Applications:
 #. Context: Setting of call
@@ -305,7 +306,7 @@ msgstr "വിളി ചുരുക്കുത്തില്‍"
 #. Applications:
 #. Context: Function that stores information like call duration of received, dialed call etc
 msgid "Call Timers"
-msgstr ""
+msgstr "വിളിയുടെ സമയം"
 
 #. Applications:
 #. Context: Function that tracks the call
@@ -315,7 +316,7 @@ msgstr ""
 #. Applications:
 #. Context: function that enable user to suspend the current telephone call and switch to the new incoming call
 msgid "Call Waiting"
-msgstr ""
+msgstr "വിളി കാത്തുനിൽക്കുന്നു"
 
 #. Applications:
 #. Context: An Application to take picture or video in mobile
@@ -345,12 +346,12 @@ msgstr "സേവനദാതാവ്"
 #. Applications:
 #. Context: function that display carrier or cell phone information
 msgid "Cell Info Display"
-msgstr ""
+msgstr "സെൽ വിവരം"
 
 #. Applications:
 #. Context: Action to change the access code
 msgid "Change Access Codes"
-msgstr ""
+msgstr "പ്രവേശനകോഡ് മാറ്റുക"
 
 #. Applications:
 #. Context: Action to change the barring password
@@ -375,7 +376,7 @@ msgstr "സുരക്ഷാ കോഡുകള്‍ മാറ്റുക"
 #. Applications:
 #. Context: Action to change wall paper
 msgid "Change Wall Paper"
-msgstr ""
+msgstr "പശ്ചാത്തലം മാറ്റുക"
 
 #. Applications:
 #. Context: Online chat
@@ -395,12 +396,12 @@ msgstr "സാധാരണ ഘടികാരം"
 #. Applications:
 #. Context: Action to reset the counter
 msgid "Clear Counter"
-msgstr ""
+msgstr "കൌണ്ടറുകൾ പുനരാരംഭിക്കുക"
 
 #. Applications:
 #. Context: To clear the log
 msgid "Clear Log"
-msgstr "ലോഗ് വെടിപ്പാക്കുക"
+msgstr "നാൾവഴി വെടിപ്പാക്കുക"
 
 #. Applications:
 #. Context: To clear the private data
@@ -425,17 +426,17 @@ msgstr "ഘടികാരം"
 #. Applications:
 #. Context: Limited user group
 msgid "Closed User Group"
-msgstr ""
+msgstr "അടഞ്ഞ ഉപയോക്തൃഗണം"
 
 #. Applications:
 #. Context: Type of capturing photo, a type of scene mode
 msgid "Closeup"
-msgstr ""
+msgstr "അടുത്ത്"
 
 #. Applications:
 #. Context: Different Color Schemes
 msgid "Color Schemes"
-msgstr ""
+msgstr "വർണ്ണവിതാനം"
 
 #. Applications:
 #. Context: To write email
@@ -495,7 +496,7 @@ msgstr "വിലാസങ്ങള്‍"
 #. Applications:
 #. Context: Application to convert currency, temperature etc
 msgid "Converter"
-msgstr ""
+msgstr "പരിവർത്തകൻ"
 
 #. Applications:
 #. Context: To Copy
@@ -555,7 +556,7 @@ msgstr "അക്ഷരത്തിന്റെ സാധാരണ വലിപ�
 #. Applications:
 #. Context: Text Encoding set by Default
 msgid "Default Text Encoding"
-msgstr ""
+msgstr "സ്വതേയുള്ള അക്ഷര എൻകോഡിങ്ങ്"
 
 #. Applications:
 #. Context: To delete
@@ -570,7 +571,7 @@ msgstr "സന്ദേശങ്ങള്‍ നീക്കം ചെയ്യ�
 #. Applications:
 #. Context: To delete recent call lists
 msgid "Delete Recent Call Lists"
-msgstr ""
+msgstr "അടുത്തിടെയുള്ള വിളിയുടെ നാൾവഴി മായ്ക്കുക"
 
 #. Applications:
 #. Context: reports about the delivery of messages etc
@@ -590,7 +591,7 @@ msgstr "അങ്ങോട്ട് വിളിച്ചത്"
 #. Applications:
 #. Context: Shows list of dialed numbers
 msgid "Dialed Numbers"
-msgstr "വിളിച്ച സംഖ്യകള്‍"
+msgstr "വിളിച്ച ആളുകൾ"
 
 #. Applications:
 #. Context: An application that contain alphabetical list of words, its meanings etc
@@ -600,7 +601,7 @@ msgstr "നിഘണ്ടു"
 #. Applications:
 #. Context: Dictionary is disabled
 msgid "Dictionary Off"
-msgstr "നിഘണ്ടു ഇല്ല"
+msgstr "നിഘണ്ടു നിർത്തുക"
 
 #. Applications:
 #. Context: Clock that shows time in numeric form
@@ -705,7 +706,7 @@ msgstr "ബ്ലൂടൂത് സജ്ജമാക്കുക"
 #. Applications:
 #. Context: To active geo location
 msgid "Enable Geo Location"
-msgstr ""
+msgstr "ജിയോലൊക്കേഷൻ സജീവമാക്കുക"
 
 #. Applications:
 #. Context: To enable Email in HTML
@@ -720,12 +721,12 @@ msgstr "എന്‍ക്രിപ്ഷന്‍"
 #. Applications:
 #. Context:  act of improving something
 msgid "Enhancement"
-msgstr ""
+msgstr "എൻഹാൻസ്മെന്റ്"
 
 #. Applications:
 #. Context: Settings for Enhancement
 msgid "Enhancement Settings"
-msgstr ""
+msgstr "എൻഹാൻസ്മെന്റ് ക്രമീകരണങ്ങൾ"
 
 #. Applications:
 #. Context: To enter PIN code
@@ -740,7 +741,7 @@ msgstr "സ്വീകര്‍ത്താവിനെ നല്‍കുക"
 #. Applications:
 #. Context: related to music player
 msgid "Equalizer"
-msgstr ""
+msgstr "ഈക്വലൈസർ"
 
 #. Applications:
 #. Context: To erase all content and settings
@@ -770,7 +771,7 @@ msgstr "വളരെ വലിയ അക്ഷരങ്ങള്‍"
 #. Applications:
 #. Context: Used for rest of the application in basic mobile
 msgid "Extras"
-msgstr "അഥികം"
+msgstr "അധികം"
 
 #. Applications:
 #. Context: Application
@@ -795,7 +796,7 @@ msgstr "സ്ഥലം കണ്ടെത്തുക"
 #. Applications:
 #. Context: Application
 msgid "Firewall"
-msgstr "തീമതിൽ"
+msgstr "ഫയർവാൾ"
 
 #. Applications:
 #. Context: action for locking the dialing
@@ -815,7 +816,7 @@ msgstr "ഫ്ലാഷ് പ്രകാശം"
 #. Applications:
 #. Context: Application for sending FM radio waves
 msgid "FM Transmitter"
-msgstr ""
+msgstr "എഫ്.എം. ട്രാൻസ്മിറ്റർ"
 
 #. Applications:
 #. Context: Size of font
@@ -890,12 +891,12 @@ msgstr "ഗൂഗിള്‍"
 #. Applications:
 #. Context: Type of Display arrange different items
 msgid "Grid View"
-msgstr "ഗ്രിഡ്ഡ് കാഴ്ച്ച"
+msgstr "ഗ്രിഡ് കാഴ്ച്ച"
 
 #. Applications:
 #. Context: Equipment used without the help of hands
 msgid "Handsfree"
-msgstr ""
+msgstr "ഹാൻഡ്സ് ഫ്രീ"
 
 #. Applications:
 #. Context: headset is headphones combined with a microphone
@@ -910,7 +911,7 @@ msgstr "ഘടികാരം മറയ്ക്കുക"
 #. Applications:
 #. Context: Menu Item of Mobile to display previous actions/steps
 msgid "History"
-msgstr "മുന്‍പുള്ളത്"
+msgstr "നാൾവഴി"
 
 #. Applications:
 #. Context: Main Screen
@@ -945,7 +946,7 @@ msgstr "ഇന്‍ബോക്സ്"
 #. Applications:
 #. Context: Setting related to incoming calls
 msgid "In-call Settings"
-msgstr ""
+msgstr "ഇൻകാൾ ക്രമീകരണങ്ങൾ"
 
 #. Applications:
 #. Context: To include sender's identity
@@ -985,7 +986,7 @@ msgstr "ചിഹ്നം ചേര്‍ക്കുക"
 #. Applications:
 #. Context: To insert template
 msgid "Insert Template"
-msgstr "മാത്രക ചേര്‍ക്കുക"
+msgstr "മാതൃക ചേര്‍ക്കുക"
 
 #. Applications:
 #. Context: files for installation
@@ -1030,12 +1031,12 @@ msgstr "കീപൂട്ട് സജ്ജീകരണങ്ങള്‍"
 #. Applications:
 #. Context: A feature that can lock or unlock the keys
 msgid "Keylock"
-msgstr "കീപൂട്ട്"
+msgstr "കീപാഡ് പൂട്ടുക
 
 #. Applications:
 #. Context: Keypad is active
 msgid "Keypad Active"
-msgstr "കീപുട്ട് സജീവം"
+msgstr "കീപാഡ് സജീവം"
 
 #. Applications:
 #. Context: keypad is locked
@@ -1055,7 +1056,7 @@ msgstr "കീപാഡ് തുറന്നു"
 #. Applications:
 #. Context: Related to Camera and photo, orientation where width is greater than the height
 msgid "Landscape"
-msgstr ""
+msgstr "തിരച്ഛീനം"
 
 #. Applications:
 #. Context: Human language eg Chinese, French, Hindi
@@ -1165,12 +1166,12 @@ msgstr "മെമ്മറിയുടെ സ്ഥിതി"
 #. Applications:
 #. Context: an option list
 msgid "Menu"
-msgstr "മെനു"
+msgstr "ഐച്ഛികം"
 
 #. Applications:
 #. Context: That allow to view menu wise
 msgid "Menu View"
-msgstr "മെനു കാഴ്ച്ച"
+msgstr "ഐച്ഛിക കാഴ്ച്ച"
 
 #. Applications:
 #. Context: Tone of Message Alert
@@ -1180,7 +1181,7 @@ msgstr "സന്ദേശ അറിയിപ്പ് ശബ്ദം"
 #. Applications:
 #. Context: Counter of Message
 msgid "Message Counter"
-msgstr "സന്ദേശ എണ്ണം"
+msgstr "സന്ദേശത്തിന്റെ എണ്ണം"
 
 #. Applications:
 #. Context: Type of Notifiers of Message
@@ -1210,12 +1211,12 @@ msgstr "എടുക്കാന്‍ പറ്റാത്ത"
 #. Applications:
 #. Context: Calls that one missed to take
 msgid "Missed Calls"
-msgstr "എടുക്കാന്‍ പറ്റാത്ത വിളികള്‍"
+msgstr "എടുക്കാന്‍ പറ്റാഞ്ഞ വിളികള്‍"
 
 #. Applications:
 #. Context: Multi media Messaging
 msgid "MMS"
-msgstr "എംഎംഎസ്"
+msgstr "മൾട്ടിമീഡിയ സന്ദേശം"
 
 #. Applications:
 #. Context: Network available for Mobile device, a radio network distributed over land areas called cells called mobile network
@@ -1275,12 +1276,12 @@ msgstr "ഇവിടേയ്ക്കുള്ള വഴി കാണിക്�
 #. Applications:
 #. Context: Information related to network and connection
 msgid "Network and Connection"
-msgstr "ശ്രംഖലയും ബന്ധവും"
+msgstr "ശൃംഖലയും ബന്ധവും"
 
 #. Applications:
 #. Context: Selection of Network
 msgid "Network Selection"
-msgstr "ശ്രംഖല തെരഞ്ഞെടുക്കുക"
+msgstr "ശൃംഖല തെരഞ്ഞെടുക്കുക"
 
 #. Applications:
 #. Context: related to calendar to make new appointment
@@ -1330,7 +1331,7 @@ msgstr "അറിയിപ്പ് വെളിച്ചങ്ങള്‍"
 #. Applications:
 #. Context: When you click on this, device will show currently playing songs/videos
 msgid "Now Playing..."
-msgstr "ഇപ്പോള്‍ കളിക്കുന്നത്..."
+msgstr "ഇപ്പോള്‍ ഓടുന്നത്..."
 
 #. Applications:
 #. Context: To be used to lock/unlock in basic phones
@@ -1375,7 +1376,7 @@ msgstr "ഐച്ഛികങ്ങള്‍"
 #. Applications:
 #. Context: To put in structured order
 msgid "Organize"
-msgstr ""
+msgstr "ക്രമീകരിക്കുക"
 
 #. Applications:
 #. Context: Video clips other than available
@@ -1455,7 +1456,7 @@ msgstr "പ്രവര്‍ത്തിപ്പിക്കുക"
 #. Applications:
 #. Context: List of music or video to be played
 msgid "Playlists"
-msgstr ""
+msgstr "ഗാനപട്ടിക"
 
 #. Applications:
 #. Context: One type of message template
@@ -1470,7 +1471,7 @@ msgstr "പോഡ്കാസ്റ്റ്"
 #. Applications:
 #. Context: Orientation where height is greater than the width
 msgid "Portrait"
-msgstr ""
+msgstr "കുത്തനെ"
 
 #. Applications:
 #. Context: Action to switch off the phone
@@ -1560,7 +1561,7 @@ msgstr "ശേഖരം പുതുക്കുക"
 #. Applications:
 #. Context: To remind about : call, meeting anything
 msgid "Remind About"
-msgstr ""
+msgstr "ഓർമ്മിപ്പിക്കുക"
 
 #. Applications:
 #. Context: A message to indicate when one event is going to happen
@@ -1655,7 +1656,7 @@ msgstr "റിങ്ങ് ശബ്ദം"
 #. Applications:
 #. Context: Volume of Ringing
 msgid "Ringing Volume"
-msgstr ""
+msgstr "റിങ്ങിങ് ഒച്ച"
 
 #. Applications:
 #. Context: to save
