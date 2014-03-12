@@ -1,0 +1,2220 @@
+# Balasankar C <c.balasankar@gmail.com>, 2013. #zanata
+# Anish Sheela <aneesh.nl@gmail.com>, 2014.
+# Akhilan <mail@akhilan.in>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: FUEL Mobile\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-23 11:19+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-03-07 08:01+0530\n"
+"Last-Translator: Akhilan <mail@akhilan.in>\n"
+"Language-Team: Swatantra Malayalam Computing <discuss@lists.smc.org.in>\n"
+"Language: ml\n"
+"X-Generator: Zanata 3.2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Poedit-Language: Malayalam\n"
+"X-Poedit-Country: INDIA\n"
+
+#. Applications:
+#. Context: Clock selection for 12-hour clock
+msgid "12 Hour"
+msgstr "12 മണിക്കൂര്‍"
+
+#. Applications:
+#. Context: Clock selection for 24-hour clock
+msgid "24 Hour"
+msgstr "24 മണിക്കൂര്‍"
+
+#. Applications:
+#. Context: Information about Application
+msgid "About Application"
+msgstr "അപ്പ്ലിക്കേഷനെ കുറിച്ച്"
+
+#. Applications:
+#. Context: It shows accessibility function
+msgid "Accessibility"
+msgstr "പ്രാപ്യമായവ"
+
+#. Applications:
+#. Context: To make active
+msgid "Activate"
+msgstr "സജീവമാക്കുക"
+
+#. Applications:
+#. Context: To make active the handset
+msgid "Activate Handset"
+msgstr "ഹസ്തോപകരണം സജീവമാക്കുക"
+
+#. Applications:
+#. Context: To add bookmark
+msgid "Add Bookmark"
+msgstr "അടയാളക്കുറിപ്പ് ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: To add contact
+msgid "Add Contact"
+msgstr "ബന്ധങ്ങളെ ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: To add anything new
+msgid "Add New"
+msgstr "പുതിയവ ചേര്‍ക്കൂ"
+
+#. Applications:
+#. Context: To add any new device like bluetooth
+msgid "Add New Device"
+msgstr "പുതിയ ഉപകരണം ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: To add to the album
+msgid "Add to Album"
+msgstr "ആല്‍ബത്തിലേക്ക് ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: To add to the Contact
+msgid "Add to Contact"
+msgstr "ബന്ധത്തിലേക്ക് ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: To add to Home Screen
+msgid "Add to Home Screen"
+msgstr "പൂമുഖത്തേയ്ക്ക് വെയ്ക്കുക"
+
+#. Applications:
+#. Context: To add to Playlist
+msgid "Add to Playlist"
+msgstr "പണിച്ചാര്‍ത്തിലേയ്ക്ക് ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: Technically Advanced Settings
+msgid "Advanced"
+msgstr "വികസിതമായ"
+
+#. Applications:
+#. Context: A setting to disable cellular, Wi-Fi, and Bluetooth during plane journey due to technical reason of aircraft operation
+msgid "Airplane Mode"
+msgstr "വിമാനമട്ട്"
+
+#. Applications:
+#. Context: Clock with alarm
+msgid "Alarm Clock"
+msgstr "അലാറം ഘടികാരം"
+
+#. Applications:
+#. Context: Alarm is off
+msgid "Alarm Off"
+msgstr "അലാറം നിർത്തൂ"
+
+#. Applications:
+#. Context: Alarm is on
+msgid "Alarm On"
+msgstr "അലാറം വെയ്ക്കു"
+
+#. Applications:
+#. Context: It is an action of alarm only once means no snooze after that
+msgid "Alarm Once"
+msgstr "അലാറം ഒരുതവണ"
+
+#. Applications:
+#. Context: Time of Alarm
+msgid "Alarm Time"
+msgstr "അലാറം സമയം"
+
+#. Applications:
+#. Context: Tone of Alarm
+msgid "Alarm Tone"
+msgstr "അലാറം ധ്വനി"
+
+#. Applications:
+#. Context: A collection of audio, video or pictures related to particular purpose
+msgid "Album"
+msgstr "ആല്‍ബം"
+
+#. Applications:
+#. Context: It means everything
+msgid "All"
+msgstr "എല്ലാം"
+
+#. Applications:
+#. Context: To do anything in one time
+msgid "All at Once"
+msgstr "എല്ലാമൊരുമിച്ച്"
+
+#. Applications:
+#. Context: Marking everything as read
+msgid "All Read"
+msgstr "എല്ലാ വായിച്ചതും"
+
+#. Applications:
+#. Context: All of the ringtones
+msgid "All Ringtones"
+msgstr "എല്ലാ റിങ്ങ്ടോണും"
+
+#. Applications:
+#. Context: All of the songs
+msgid "All Songs"
+msgstr "എല്ലാ ഗാനങ്ങളും"
+
+#. Applications:
+#. Context: To reply the call
+msgid "Answer Call"
+msgstr "കോള്‍ എടുക്കു"
+
+#. Applications:
+#. Context: It is like Apps Store
+msgid "Application Manager"
+msgstr "പ്രവര്‍ത്തകപാലകന്‍"
+
+#. Applications:
+#. Context: Network Area
+msgid "Area"
+msgstr "സ്ഥലം"
+
+#. Applications:
+#. Context: Network Area Code
+msgid "Area Code"
+msgstr "സ്ഥലകോഡ്"
+
+#. Applications:
+#. Context: Selection of Performer of Music or Video
+msgid "Artist"
+msgstr "കലാകാരൻ"
+
+#. Applications:
+#. Context: Selection of Artist and Album
+msgid "Artists and Albums"
+msgstr "കലാകാരന്മാരും ആല്‍ബങ്ങളും"
+
+#. Applications:
+#. Context: Moving upward
+msgid "Ascending"
+msgstr "ആരോഹണത്തില്‍"
+
+#. Applications:
+#. Context: automatic
+msgid "Auto"
+msgstr "സ്വയം"
+
+#. Applications:
+#. Context: Automatic update of Date and Time
+msgid "Auto-update of Date and Time"
+msgstr "തിയതിയും സമയവും സ്വയം പുതുക്കുക"
+
+#. Applications:
+#. Context: Anything that works without outside control, opposite to manual
+msgid "Automatic"
+msgstr "സ്വയമായി"
+
+#. Applications:
+#. Context: Keyguard that works automatically
+msgid "Automatic Keyguard"
+msgstr "സ്വയമായ കീപൂട്ട്"
+
+#. Applications:
+#. Context: An option to redial automatically
+msgid "Automatic Redial"
+msgstr "സ്വയമായി വീണ്ടും വിളിക്കുക"
+
+#. Applications:
+#. Context: A function by which someone retrieve automatically instead manually
+msgid "Automatic Retrieval"
+msgstr "സ്വയം വീണ്ടെടുക്കുക"
+
+#. Applications:
+#. Context: to move backward
+msgid "Back"
+msgstr "പുറകോട്ട്"
+
+#. Applications:
+#. Context: Timeout period for backlight screen or button
+msgid "Backlight Timeout"
+msgstr "പിന്‍വെളിച്ചം കെടുത്തേണ്ടത്"
+
+#. Applications:
+#. Context: Source of Power of any device
+msgid "Battery"
+msgstr "ബാറ്ററി"
+
+#. Applications:
+#. Context: profile for incoming phone calls where tone only beep once
+msgid "Beep Once"
+msgstr "ഒരിക്കല്‍ ശബ്ദിയ്ക്കുക"
+
+#. Applications:
+#. Context: To block popup
+msgid "Block Popup"
+msgstr "പൊട്ടിവിടരല്‍ തടയുക"
+
+#. Applications:
+#. Context: A device
+msgid "Bluetooth"
+msgstr "ബ്ലൂടൂത്ത്"
+
+#. Applications:
+#. Context: A preferred selection of links etc that user wants to refer when s/he needs
+msgid "Bookmarks"
+msgstr "അടയാളകുറിപ്പ്"
+
+#. Applications:
+#. Context: luminance of a screen
+msgid "Brightness"
+msgstr "തെളിച്ചം"
+
+#. Applications:
+#. Context: An Application
+msgid "Calculator"
+msgstr "ഗണനി"
+
+#. Applications:
+#. Context: An application of electronic calendar
+msgid "Calendar"
+msgstr "കലണ്ടര്‍"
+
+#. Applications:
+#. Context: An action to bar a call
+msgid "Call Barring"
+msgstr "വിളി നിരോധനം"
+
+#. Applications:
+#. Context: Action to divert call
+msgid "Call Divert"
+msgstr "വിളി തിരിച്ചുവിടല്‍"
+
+#. Applications:
+#. Context: Duration of call
+msgid "Call Duration"
+msgstr "വിളിദൈര്‍ഘ്യം"
+
+#. Applications:
+#. Context: Log of call
+msgid "Call Log"
+msgstr "വിളിയുടെ നാൾവഴി"
+
+#. Applications:
+#. Context: Setting of call
+msgid "Call Settings"
+msgstr "വിളി ക്രമീകരണങ്ങള്‍"
+
+#. Applications:
+#. Context: Summary of call
+msgid "Call Summary"
+msgstr "വിളി ചുരുക്കുത്തില്‍"
+
+#. Applications:
+#. Context: Function that stores information like call duration of received, dialed call etc
+msgid "Call Timers"
+msgstr "വിളിയുടെ സമയം"
+
+#. Applications:
+#. Context: Function that tracks the call
+msgid "Call Trackers"
+msgstr "വിളി സൂചിക"
+
+#. Applications:
+#. Context: function that enable user to suspend the current telephone call and switch to the new incoming call
+msgid "Call Waiting"
+msgstr "വിളി കാത്തുനിൽക്കുന്നു"
+
+#. Applications:
+#. Context: An Application to take picture or video in mobile
+msgid "Camera"
+msgstr "ക്യാമറ"
+
+#. Applications:
+#. Context: To cancel anything
+msgid "Cancel"
+msgstr "റദ്ദാക്കുക"
+
+#. Applications:
+#. Context: A function by which one can cancel all applied barring
+msgid "Cancel All Barrings"
+msgstr "എല്ലാ നിരോധനങ്ങളും കളയുക"
+
+#. Applications:
+#. Context: To capture photo or screenshot
+msgid "Capture"
+msgstr "രേഖപ്പെടുത്തുക"
+
+#. Applications:
+#. Context: Network Vendor
+msgid "Carrier"
+msgstr "സേവനദാതാവ്"
+
+#. Applications:
+#. Context: function that display carrier or cell phone information
+msgid "Cell Info Display"
+msgstr "ഉപകരണ വിവരം"
+
+#. Applications:
+#. Context: Action to change the access code
+msgid "Change Access Codes"
+msgstr "പ്രവേശനകോഡ് മാറ്റുക"
+
+#. Applications:
+#. Context: Action to change the barring password
+msgid "Change Barring Password"
+msgstr "നിരോധന രഹസ്യവാക്ക് മാറ്റുക"
+
+#. Applications:
+#. Context: Action to change codes
+msgid "Change Codes"
+msgstr "കോഡുകള്‍ മാറ്റുക"
+
+#. Applications:
+#. Context: Action to change PIN codes
+msgid "Change PIN Code"
+msgstr "പിന്‍ കോഡ് മാറ്റുക"
+
+#. Applications:
+#. Context: Action to change security codes
+msgid "Change Security Codes"
+msgstr "സുരക്ഷാ കോഡുകള്‍ മാറ്റുക"
+
+#. Applications:
+#. Context: Action to change wall paper
+msgid "Change Wall Paper"
+msgstr "ചുവര്‍ചിത്രങ്ങള്‍ മാറ്റുക"
+
+#. Applications:
+#. Context: Online chat
+msgid "Chat"
+msgstr "സല്ലാപം"
+
+#. Applications:
+#. Context: to check once status related to anything like certificate status etc
+msgid "Check Status"
+msgstr "സ്ഥിതി പരിശോധിക്കുക"
+
+#. Applications:
+#. Context: Clock to be shown on a mobile in classic typical form
+msgid "Classic Clock"
+msgstr "സാധാരണ ഘടികാരം"
+
+#. Applications:
+#. Context: Action to reset the counter
+msgid "Clear Counter"
+msgstr "സൂചികകൾ അടിസ്ഥാനസ്ഥിതിയിലാക്കുക"
+
+#. Applications:
+#. Context: To clear the log
+msgid "Clear Log"
+msgstr "നാൾവഴി അടിസ്ഥാനസ്ഥിതിയിലാക്കുക"
+
+#. Applications:
+#. Context: To clear the private data
+msgid "Clear Private Data"
+msgstr "എല്ലാ സ്വകാര്യ വിവരങ്ങളും വെടിപ്പാക്കുക"
+
+#. Applications:
+#. Context: Action to remove private information
+msgid "Clear Text"
+msgstr "വാചകം മായ്ക്കുക"
+
+#. Applications:
+#. Context: Action to reset the timers
+msgid "Clear Timers"
+msgstr "സമയസൂചികകള്‍ മായ്ക്കുക"
+
+#. Applications:
+#. Context: Application
+msgid "Clock"
+msgstr "ഘടികാരം"
+
+#. Applications:
+#. Context: Limited user group
+msgid "Closed User Group"
+msgstr "അടഞ്ഞ ഉപയോക്തൃഗണം"
+
+#. Applications:
+#. Context: Type of capturing photo, a type of scene mode
+msgid "Closeup"
+msgstr "അടുത്ത്"
+
+#. Applications:
+#. Context: Different Color Schemes
+msgid "Color Schemes"
+msgstr "വർണ്ണവിതാനം"
+
+#. Applications:
+#. Context: To write email
+msgid "Compose Email"
+msgstr "ഇമെയില്‍ രചിക്കൂ"
+
+#. Applications:
+#. Context: To write text message
+msgid "Compose Text Message"
+msgstr "പുതിയ സന്ദേശം"
+
+#. Applications:
+#. Context: A conference call is a telephone call in which the calling party wishes to have more than one called party to join
+msgid "Conference Call"
+msgstr "കൂട്ട വിളി"
+
+#. Applications:
+#. Context: To acknowledge
+msgid "Confirm"
+msgstr "ഉറപ്പ് വരുത്തുക"
+
+#. Applications:
+#. Context: To acknowledge the delivery
+msgid "Confirm Delivery"
+msgstr "സമര്‍പ്പണം ഉറപ്പാക്കുക"
+
+#. Applications:
+#. Context: To acknowledge that one is already read
+msgid "Confirm Read"
+msgstr "വായിച്ചത് ഉറപ്പാക്കുക"
+
+#. Applications:
+#. Context: To confirm the SIM Service Action in phone setting
+msgid "Confirm SIM Service Action"
+msgstr "സിം സേവനങ്ങളുടെ പ്രവൃത്തി ഉറപ്പാക്കുക"
+
+#. Applications:
+#. Context: The act of confirming
+msgid "Confirmations"
+msgstr "ഉറപ്പാക്കലുകള്‍"
+
+#. Applications:
+#. Context: Images of Contacts
+msgid "Contact Images"
+msgstr "ബന്ധുവിന്‍റെ ചിത്രങ്ങള്‍"
+
+#. Applications:
+#. Context: Name of contacts
+msgid "Contact Name"
+msgstr "ബന്ധുവിന്‍റെ പേര്"
+
+#. Applications:
+#. Context: menu item for contact search
+msgid "Contacts"
+msgstr "ബന്ധുക്കള്‍"
+
+#. Applications:
+#. Context: Application to convert currency, temperature etc
+msgid "Converter"
+msgstr "പരിവർത്തകൻ"
+
+#. Applications:
+#. Context: To Copy
+msgid "Copy"
+msgstr "പകര്‍ത്തുക"
+
+#. Applications:
+#. Context: To copy the location
+msgid "Copy Location"
+msgstr "സ്ഥലം പകര്‍ത്തുക"
+
+#. Applications:
+#. Context: To control the cost of the call or data
+msgid "Cost Control"
+msgstr "മൂല്യ നിയന്ത്രണം"
+
+#. Applications:
+#. Context: Settings of the Cost
+msgid "Cost Settings"
+msgstr "തുക ക്രമീകരണങ്ങള്‍"
+
+#. Applications:
+#. Context: To create message
+msgid "Create Message"
+msgstr "പുതിയ സന്ദേശം നിര്‍മ്മിക്കുക"
+
+#. Applications:
+#. Context: Money of different country eg Rupee, Dollars, Yen etc
+msgid "Currency"
+msgstr "നാണ്യം"
+
+#. Applications:
+#. Context: Services related to internet etc
+msgid "Data Services"
+msgstr "ഡാറ്റ സേവനങ്ങള്‍"
+
+#. Applications:
+#. Context: Setting of the Date
+msgid "Date Setting"
+msgstr "തിയതി ക്രമീകരണം"
+
+#. Applications:
+#. Context: A setting that is automatically given by a device
+msgid "Default"
+msgstr "സ്വതവേയുള്ളവ"
+
+#. Applications:
+#. Context: Call Volume set by Default
+msgid "Default Call Volume"
+msgstr "സ്വതവേയുള്ള വിളിയുടെ ശബ്ദം"
+
+#. Applications:
+#. Context: Font Size set by Default
+msgid "Default Font Size"
+msgstr "അക്ഷരത്തിന്റെ സ്വതവേയുള്ള വലിപ്പം"
+
+#. Applications:
+#. Context: Text Encoding set by Default
+msgid "Default Text Encoding"
+msgstr "സ്വതേയുള്ള അക്ഷര എൻകോഡിങ്ങ്"
+
+#. Applications:
+#. Context: To delete
+msgid "Delete"
+msgstr "നീക്കം ചെയ്യുക"
+
+#. Applications:
+#. Context: To delete messages
+msgid "Delete Messages"
+msgstr "സന്ദേശങ്ങള്‍ നീക്കം ചെയ്യുക"
+
+#. Applications:
+#. Context: To delete recent call lists
+msgid "Delete Recent Call Lists"
+msgstr "അടുത്തിടെയുള്ള വിളിയുടെ നാൾവഴി നീക്കം ചെയ്യുക"
+
+#. Applications:
+#. Context: reports about the delivery of messages etc
+msgid "Delivery Reports"
+msgstr "സമര്‍പ്പണ റിപ്പോര്‍ട്ടുകള്‍"
+
+#. Applications:
+#. Context: A menu item of mobile to update the device
+msgid "Device Update"
+msgstr "ഉപകരണം പുതുക്കല്‍"
+
+#. Applications:
+#. Context: Shows list of dialed numbers
+msgid "Dialed"
+msgstr "അങ്ങോട്ട് വിളിച്ചവ"
+
+#. Applications:
+#. Context: Shows list of dialed numbers
+msgid "Dialed Numbers"
+msgstr "വിളിച്ച ആളുകൾ"
+
+#. Applications:
+#. Context: An application that contain alphabetical list of words, its meanings etc
+msgid "Dictionary"
+msgstr "നിഘണ്ടു"
+
+#. Applications:
+#. Context: Dictionary is disabled
+msgid "Dictionary Off"
+msgstr "നിഘണ്ടു അടയ്ക്കുക"
+
+#. Applications:
+#. Context: Clock that shows time in numeric form
+msgid "Digital Clock"
+msgstr "ഡിജിറ്റല്‍ ഘടികാരം"
+
+#. Applications:
+#. Context: related to digital photography
+msgid "Digital Zoom"
+msgstr "ഡിജിറ്റല്‍ വലുതാക്കല്‍"
+
+#. Applications:
+#. Context: Related to Bluetooth whether it is search-able
+msgid "Discoverable"
+msgstr "കണ്ടുപിടിക്കാനാവുന്ന"
+
+#. Applications:
+#. Context: a profile of basic phone
+msgid "Discreet"
+msgstr "ശ്രദ്ധയാര്‍ന്ന"
+
+#. Applications:
+#. Context: To display the details
+msgid "Display Detail"
+msgstr "വിശദാംശങ്ങള്‍ കാണിക്കുക"
+
+#. Applications:
+#. Context: Language for Display
+msgid "Display Language"
+msgstr "കാണിക്കേണ്ട ഭാഷ"
+
+#. Applications:
+#. Context: Settings of the display
+msgid "Display Settings"
+msgstr "കാഴ്ച ക്രമീകരണങ്ങള്‍"
+
+#. Applications:
+#. Context:  collection of contact used as single recipient distribution of emails
+msgid "Distribution List"
+msgstr "വിതരണ പട്ടിക"
+
+#. Applications:
+#. Context: To divert all the voice calls
+msgid "Divert All Voice Calls"
+msgstr "എല്ലാ ശബ്ദ വിളികളും തിരിച്ച് വിടുക"
+
+#. Applications:
+#. Context: To download an image automatically
+msgid "Download Image Automatically"
+msgstr "സ്വമേധയാ ചിത്രം എടുക്കുക"
+
+#. Applications:
+#. Context: A folder where drafts of messages, mails are saved
+msgid "Drafts"
+msgstr "കരടുകള്‍"
+
+#. Applications:
+#. Context: used for time duration
+msgid "Duration"
+msgstr "ദൈര്‍ഘ്യം"
+
+#. Applications:
+#. Context: Time taken by all calls
+msgid "Duration of All Calls"
+msgstr "എല്ലാ വിളികളുടെയും ദൈര്‍ഘ്യം"
+
+#. Applications:
+#. Context: Time taken by dialed calls
+msgid "Duration of Dialed Calls"
+msgstr "അങ്ങോട്ട് വിളിച്ച വിളികളുടെ ദൈര്‍ഘ്യം"
+
+#. Applications:
+#. Context: Time taken by last calls
+msgid "Duration of Last Calls"
+msgstr "അവസാന വിളികളുടെ ദൈര്‍ഘ്യം"
+
+#. Applications:
+#. Context: Time taken by received calls
+msgid "Duration of Received Calls"
+msgstr "സ്വീകരിച്ച വിളികളുടെ ദൈര്‍ഘ്യം"
+
+#. Applications:
+#. Context: A menu item used for Editing
+msgid "Edit"
+msgstr "മാറ്റം വരുത്തുക"
+
+#. Applications:
+#. Context: It manages email account
+msgid "Email Account Management"
+msgstr "ഇമെയില്‍ അക്കൌണ്ട് പരിപാലനം"
+
+#. Applications:
+#. Context: Filters for email
+msgid "Email Filters"
+msgstr "ഇമെയില്‍ അരിപ്പകള്‍"
+
+#. Applications:
+#. Context: To activate bluetooth
+msgid "Enable Bluetooth"
+msgstr "ബ്ലൂടൂത് സജ്ജമാക്കുക"
+
+#. Applications:
+#. Context: To active geo location
+msgid "Enable Geo Location"
+msgstr "ജിയോലൊക്കേഷൻ സജീവമാക്കുക"
+
+#. Applications:
+#. Context: To enable Email in HTML
+msgid "Enable HTML Email"
+msgstr "എച്ടിഎംഎല്‍ ഇമെയില്‍ സജ്ജമാക്കുക"
+
+#. Applications:
+#. Context: To change data in coded form so that it cannot be read by any unauthorized party
+msgid "Encryption"
+msgstr "ഗൂഢവല്‍ക്കരിക്കുക"
+
+#. Applications:
+#. Context:  act of improving something
+msgid "Enhancement"
+msgstr "വികസിപ്പിയ്ക്കുക"
+
+#. Applications:
+#. Context: Settings for Enhancement
+msgid "Enhancement Settings"
+msgstr "വികസിപ്പിക്കുന്നതിന്‍റെ ക്രമീകരണങ്ങൾ"
+
+#. Applications:
+#. Context: To enter PIN code
+msgid "Enter PIN Code"
+msgstr "പിന്‍ കോഡ് നല്‍കുക"
+
+#. Applications:
+#. Context: To enter recipient
+msgid "Enter Recipient"
+msgstr "സ്വീകര്‍ത്താവിനെ ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: related to music player
+msgid "Equalizer"
+msgstr "സമാനതനിയന്ത്രകന്‍"
+
+#. Applications:
+#. Context: To erase all content and settings
+msgid "Erase All Contents and Settings"
+msgstr "എല്ലാ വിവരങ്ങളും ക്രമീകരണങ്ങളും മായ്ക്കുക"
+
+#. Applications:
+#. Context: Events that is notified
+msgid "Events Notified"
+msgstr "അറിയിച്ച സംഭവങ്ങള്‍"
+
+#. Applications:
+#. Context: To exit from an application
+msgid "Exit"
+msgstr "പുറത്ത് പോവുക"
+
+#. Applications:
+#. Context: To exit from the editor
+msgid "Exit Editor"
+msgstr "തിരുത്തില്‍ നിന്ന് പുറത്ത് കടക്കുക"
+
+#. Applications:
+#. Context: Fonts with extra large size
+msgid "Extra Large Fonts"
+msgstr "വളരെ വലിയ അക്ഷരങ്ങള്‍"
+
+#. Applications:
+#. Context: Used for rest of the application in basic mobile
+msgid "Extras"
+msgstr "അധികങ്ങള്‍"
+
+#. Applications:
+#. Context: Application
+msgid "Facebook"
+msgstr "ഫേസ്ബുക്ക്"
+
+#. Applications:
+#. Context: Folder to show files on device
+msgid "Files"
+msgstr "ഫയലുകള്‍"
+
+#. Applications:
+#. Context: Application
+msgid "File Manager"
+msgstr "ഫയല്‍ പരിപാലകന്‍"
+
+#. Applications:
+#. Context: To find the location
+msgid "Find Location"
+msgstr "സ്ഥലം കണ്ടെത്തുക"
+
+#. Applications:
+#. Context: Application
+msgid "Firewall"
+msgstr "തീഭിത്തി"
+
+#. Applications:
+#. Context: action for locking the dialing
+msgid "Fixed Dialing"
+msgstr "സ്ഥിര ഡയലിങ്ങ്"
+
+#. Applications:
+#. Context: flash of the camera
+msgid "Flash"
+msgstr "മിന്നല്‍"
+
+#. Applications:
+#. Context: Application of basic mobile used for torch
+msgid "Flash Light"
+msgstr "മിന്നല്‍പിണര്‍"
+
+#. Applications:
+#. Context: Application for sending FM radio waves
+msgid "FM Transmitter"
+msgstr "എഫ്.എം. ട്രാൻസ്മിറ്റർ"
+
+#. Applications:
+#. Context: Size of font
+msgid "Font Size"
+msgstr "അക്ഷരത്തിന്റെ വലിപ്പം"
+
+#. Applications:
+#. Context: To format memory or sd card
+msgid "Format"
+msgstr "ഫോര്‍മാറ്റ്"
+
+#. Applications:
+#. Context: To forward a selected message to somebody
+msgid "Forward"
+msgstr "കൈമാറുക"
+
+#. Applications:
+#. Context: Label to display the available memory
+msgid "Free Memory"
+msgstr "ഉപയോഗത്തിലില്ലാത്ത മെമ്മറി"
+
+#. Applications:
+#. Context: Full ie memory is full
+msgid "Full"
+msgstr "നിറഞ്ഞു"
+
+#. Applications:
+#. Context: Sound of Game
+msgid "Game Sound"
+msgstr "കളിയുടെ ശബ്ദം"
+
+#. Applications:
+#. Context: Mobile games
+msgid "Games"
+msgstr "കളികള്‍"
+
+#. Applications:
+#. Context: Profile of a basic phone
+msgid "General"
+msgstr "പൊതുവായ"
+
+#. Applications:
+#. Context: Related to music
+msgid "Genres"
+msgstr "വിഭാഗങ്ങള്‍"
+
+#. Applications:
+#. Context: To get direction in a map
+msgid "Get Directions"
+msgstr "വഴി കാണിക്കുക"
+
+#. Applications:
+#. Context: to go to somewhere
+msgid "Go to"
+msgstr "പോവുക"
+
+#. Applications:
+#. Context: To go to date
+msgid "Go to Date"
+msgstr "തീയതിയിലേക്ക് പോവുക"
+
+#. Applications:
+#. Context: To go to music store
+msgid "Go to Music Store"
+msgstr "പാട്ട് കടയിലേക്ക് പോവുക"
+
+#. Applications:
+#. Context: Application
+msgid "Google"
+msgstr "ഗൂഗിള്‍"
+
+#. Applications:
+#. Context: Type of Display arrange different items
+msgid "Grid View"
+msgstr "ഗ്രിഡ് കാഴ്ച്ച"
+
+#. Applications:
+#. Context: Equipment used without the help of hands
+msgid "Handsfree"
+msgstr "സതന്ത്രഹസ്തം"
+
+#. Applications:
+#. Context: headset is headphones combined with a microphone
+msgid "Headset"
+msgstr "ഹെഡ്സെറ്റ്"
+
+#. Applications:
+#. Context: To hide the clock
+msgid "Hide Clock"
+msgstr "ഘടികാരം മറയ്ക്കുക"
+
+#. Applications:
+#. Context: Menu Item of Mobile to display previous actions/steps
+msgid "History"
+msgstr "നാൾവഴി"
+
+#. Applications:
+#. Context: Main Screen
+msgid "Home"
+msgstr "പൂമുഖം"
+
+#. Applications:
+#. Context: Size of Image
+msgid "Image Size"
+msgstr "ചിത്രത്തിന്റെ വലിപ്പം"
+
+#. Applications:
+#. Context: To import the pictures
+msgid "Import Pictures"
+msgstr "ഫോട്ടോകള്‍ ഇറക്കുമതി ചെയ്യുക"
+
+#. Applications:
+#. Context: Profile of phone
+msgid "In Car"
+msgstr "കാറില്‍"
+
+#. Applications:
+#. Context: Feature to show call duration during calls
+msgid "In-call Timer"
+msgstr "വരുന്ന വിളികളുടെ സമയവിവരം"
+
+#. Applications:
+#. Context: Incoming mails are saved in this folder.
+msgid "Inbox"
+msgstr "ഇന്‍ബോക്സ്"
+
+#. Applications:
+#. Context: Setting related to incoming calls
+msgid "In-call Settings"
+msgstr "വരുന്ന വിളികളുടെ ക്രമീകരണങ്ങൾ"
+
+#. Applications:
+#. Context: To include sender's identity
+msgid "Include Signature"
+msgstr "ഒപ്പ് ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: Calls from others to the user
+msgid "Incoming Calls"
+msgstr "ഇങ്ങോട്ടു് വന്ന വിളികള്‍"
+
+#. Applications:
+#. Context: Service related to information of area or anything
+msgid "Info Service"
+msgstr "വിജ്ഞാപനസേവനങ്ങള്‍"
+
+#. Applications:
+#. Context: To insert numbers
+msgid "Insert Number"
+msgstr "സംഖ്യ ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: To insert options
+msgid "Insert Options"
+msgstr "ഐച്ഛികം ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: To insert smiley
+msgid "Insert Smiley"
+msgstr "ചിരി ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: To insert symbol
+msgid "Insert Symbol"
+msgstr "ചിഹ്നം ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: To insert template
+msgid "Insert Template"
+msgstr "അച്ച് ചേര്‍ക്കുക"
+
+#. Applications:
+#. Context: files for installation
+msgid "Installation Files"
+msgstr "സ്ഥാപന ഫയലുകള്‍"
+
+#. Applications:
+#. Context: Settings for installation
+msgid "Installation Settings"
+msgstr "സ്ഥാപന ക്രമീകരണങ്ങള്‍"
+
+#. Applications:
+#. Context: List of application that are installed
+msgid "Installed Apps"
+msgstr "സ്ഥാപിച്ച സംയോജകങ്ങള്‍"
+
+#. Applications:
+#. Context: the act of instructing
+msgid "Instructions"
+msgstr "നിര്‍ദ്ദേശങ്ങള്‍"
+
+#. Applications:
+#. Context: Calls to or from foreign country
+msgid "International Calls"
+msgstr "അന്താരാഷ്ട്ര വിളികള്‍"
+
+#. Applications:
+#. Context: Internet Protocol Address
+msgid "IP Address"
+msgstr "ഐപി വിലാസം"
+
+#. Applications:
+#. Context: Code for keyguard
+msgid "Keyguard Code"
+msgstr "കീപൂട്ട് കോഡ്"
+
+#. Applications:
+#. Context: Settings of Keyguard
+msgid "Keyguard Settings"
+msgstr "കീപൂട്ട് സജ്ജീകരണങ്ങള്‍"
+
+#. Applications:
+#. Context: A feature that can lock or unlock the keys
+msgid "Keylock"
+msgstr "കീപാഡ് പൂട്ടുക
+
+#. Applications:
+#. Context: Keypad is active
+msgid "Keypad Active"
+msgstr "കീപാഡ് സജീവം"
+
+#. Applications:
+#. Context: keypad is locked
+msgid "Keypad Locked"
+msgstr "കീപാഡ് പൂട്ടിയിരിക്കുന്നു"
+
+#. Applications:
+#. Context: Tones of Keypad
+msgid "Keypad Tones"
+msgstr "കീപാഡ് ശബ്ദങ്ങള്‍"
+
+#. Applications:
+#. Context: keypad is unlocked
+msgid "Keypad Unlocked"
+msgstr "കീപാഡ് തുറന്നു"
+
+#. Applications:
+#. Context: Related to Camera and photo, orientation where width is greater than the height
+msgid "Landscape"
+msgstr "തിരശ്ചീനം"
+
+#. Applications:
+#. Context: Human language eg Chinese, French, Hindi
+msgid "Language"
+msgstr "ഭാഷ"
+
+#. Applications:
+#. Context: Fonts of large size
+msgid "Large Fonts"
+msgstr "വലിയ അക്ഷരങ്ങള്‍"
+
+#. Applications:
+#. Context: most recent call
+msgid "Last Call"
+msgstr "അവസാന വിളി"
+
+#. Applications:
+#. Context: watched last time
+msgid "Last Watched"
+msgstr "അവസാനം കണ്ടത്"
+
+#. Applications:
+#. Context: The most recent update
+msgid "Latest Update"
+msgstr "ഏറ്റവുംഅവസാനത്തെ പുതുക്കല്‍"
+
+#. Applications:
+#. Context: Distance
+msgid "Length"
+msgstr "ദൈര്‍ഘ്യം"
+
+#. Applications:
+#. Context: Profile of phone
+msgid "Lights Only"
+msgstr "പ്രകാശം മാത്രം"
+
+#. Applications:
+#. Context: series of any items
+msgid "List"
+msgstr "പട്ടിക"
+
+#. Applications:
+#. Context: Type of viewing items, contrast to grid view
+msgid "List View"
+msgstr "പട്ടിക കാഴ്ച"
+
+#. Applications:
+#. Context: To load image from storage
+msgid "Load Image"
+msgstr "ചിത്രം എടുക്കുക"
+
+#. Applications:
+#. Context: geographical coordinates
+msgid "Location"
+msgstr "സ്ഥലം"
+
+#. Applications:
+#. Context: Service to access user's location
+msgid "Location Services"
+msgstr "സ്ഥല സേവനങ്ങള്‍"
+
+#. Applications:
+#. Context: To lock
+msgid "Lock"
+msgstr "പൂട്ട്"
+
+#. Applications:
+#. Context: Profile of phone
+msgid "Loud"
+msgstr "ഉച്ചത്തിലുള്ളത്"
+
+#. Applications:
+#. Context: physical strength of sound
+msgid "Loudness"
+msgstr "ശബ്ദതീവ്രത"
+
+#. Applications:
+#. Context: opposite of automatic
+msgid "Manual"
+msgstr "കൈകൊണ്ട്"
+
+#. Applications:
+#. Context: representation of a region on plane surface, here on mobile
+msgid "Maps"
+msgstr "ഭൂപടങ്ങള്‍"
+
+#. Applications:
+#. Context: an object to store data
+msgid "Media"
+msgstr "മാധ്യമം"
+
+#. Applications:
+#. Context: a device to play music, video etc
+msgid "Media Player"
+msgstr "മാധ്യമ വാദകന്‍"
+
+#. Applications:
+#. Context: Related to calendar application
+msgid "Meeting"
+msgstr "യോഗം"
+
+#. Applications:
+#. Context: Status of memory ie free or full
+msgid "Memory Status"
+msgstr "മെമ്മറിയുടെ സ്ഥിതി"
+
+#. Applications:
+#. Context: an option list
+msgid "Menu"
+msgstr "ഐച്ഛികം"
+
+#. Applications:
+#. Context: That allow to view menu wise
+msgid "Menu View"
+msgstr "ഐച്ഛിക കാഴ്ച്ച"
+
+#. Applications:
+#. Context: Tone of Message Alert
+msgid "Message Alert Tone"
+msgstr "സന്ദേശ അറിയിപ്പ് ശബ്ദം"
+
+#. Applications:
+#. Context: Counter of Message
+msgid "Message Counter"
+msgstr "സന്ദേശത്തിന്റെ എണ്ണം"
+
+#. Applications:
+#. Context: Type of Notifiers of Message
+msgid "Message Notifiers"
+msgstr "സന്ദേശ അറിയിപ്പുകള്‍"
+
+#. Applications:
+#. Context: Message which is saved now
+msgid "Message Saved"
+msgstr "സന്ദേശം സൂക്ഷിച്ചു"
+
+#. Applications:
+#. Context: setting related to message
+msgid "Message Settings"
+msgstr "സന്ദേശ ക്രമീകരണങ്ങള്‍"
+
+#. Applications:
+#. Context: communication among a one or more persons
+msgid "Messages"
+msgstr "സന്ദേശങ്ങള്‍"
+
+#. Applications:
+#. Context: Related to Missed call
+msgid "Missed"
+msgstr "എടുക്കാന്‍ പറ്റാത്ത"
+
+#. Applications:
+#. Context: Calls that one missed to take
+msgid "Missed Calls"
+msgstr "എടുക്കാന്‍ പറ്റാഞ്ഞ വിളികള്‍"
+
+#. Applications:
+#. Context: Multi media Messaging
+msgid "MMS"
+msgstr "മൾട്ടിമീഡിയ സന്ദേശം"
+
+#. Applications:
+#. Context: Network available for Mobile device, a radio network distributed over land areas called cells called mobile network
+msgid "Mobile Network"
+msgstr "മൊബൈല്‍ ശൃംഖല"
+
+#. Applications:
+#. Context: Model of Device
+msgid "Model"
+msgstr "മാതൃക"
+
+#. Applications:
+#. Context: to be used to see the details
+msgid "More"
+msgstr "കൂടുതല്‍"
+
+#. Applications:
+#. Context: Collection of Music
+msgid "Music Library"
+msgstr "സംഗീത ശേഖരം"
+
+#. Applications:
+#. Context: application to play music
+msgid "Music Player"
+msgstr "പാട്ടുപെട്ടി"
+
+#. Applications:
+#. Context: Button to show my location
+msgid "My Location"
+msgstr "എന്റെ സ്ഥലം"
+
+#. Applications:
+#. Context: Related to contact menu that shows name only
+msgid "Name"
+msgstr "പേരു്"
+
+#. Applications:
+#. Context: Related to contact menu that shows name and number both
+msgid "Name and Number"
+msgstr "പേരും സംഖ്യയും"
+
+#. Applications:
+#. Context: List of Name
+msgid "Name List"
+msgstr "പേര് പട്ടിക"
+
+#. Applications:
+#. Context: only name nothing else
+msgid "Name Only"
+msgstr "പേര് മാത്രം"
+
+#. Applications:
+#. Context: Related to Map
+msgid "Navigate to Here"
+msgstr "ഇവിടേയ്ക്കുള്ള വഴി കാണിക്കുക"
+
+#. Applications:
+#. Context: Information related to network and connection
+msgid "Network and Connection"
+msgstr "ശൃംഖലയും ബന്ധവും"
+
+#. Applications:
+#. Context: Selection of Network
+msgid "Network Selection"
+msgstr "ശൃംഖല തെരഞ്ഞെടുക്കുക"
+
+#. Applications:
+#. Context: related to calendar to make new appointment
+msgid "New Appointment"
+msgstr "പുതിയ സന്ദര്‍ശനം"
+
+#. Applications:
+#. Context: Move forward
+msgid "Next"
+msgstr "അടുത്തത്"
+
+#. Applications:
+#. Context: Setting for pictures taken in dark conditions
+msgid "Night"
+msgstr "രാത്രി"
+
+#. Applications:
+#. Context: Opposite to Yes
+msgid "No"
+msgstr "വേണ്ട"
+
+#. Applications:
+#. Context: Disabling the screening of Messages
+msgid "No Screening"
+msgstr "അരിപ്പ വേണ്ട"
+
+#. Applications:
+#. Context: No one or not any
+msgid "None"
+msgstr "ഒന്നുമില്ല"
+
+#. Applications:
+#. Context: Profile of phone
+msgid "Normal"
+msgstr "സാധാരണ"
+
+#. Applications:
+#. Context: a brief record in written form, an application also
+msgid "Note"
+msgstr "കുറിപ്പ്"
+
+#. Applications:
+#. Context: Blinking lights to show any notification of mails, messages etc
+msgid "Notification Lights"
+msgstr "അറിയിപ്പ് വെളിച്ചങ്ങള്‍"
+
+#. Applications:
+#. Context: When you click on this, device will show currently playing songs/videos
+msgid "Now Playing..."
+msgstr "ഇപ്പോള്‍ ഓടുന്നത്..."
+
+#. Applications:
+#. Context: To be used to lock/unlock in basic phones
+msgid "Now Press *"
+msgstr "ഇപ്പോള്‍ * അമര്‍ത്തുക"
+
+#. Applications:
+#. Context: Total no of copy
+msgid "Number of Copies"
+msgstr "പതിപ്പുകളുടെ എണ്ണം"
+
+#. Applications:
+#. Context: Mobile number
+msgid "Numbers"
+msgstr "സംഖ്യകള്‍"
+
+#. Applications:
+#. Context: Related to address book used for filling office contacts
+msgid "Office"
+msgstr "കാര്യാലയം"
+
+#. Applications:
+#. Context: Approval
+msgid "OK"
+msgstr "ശരി"
+
+#. Applications:
+#. Context: opposite of Off
+msgid "On"
+msgstr "ഓണ്‍ ആക്കുക"
+
+#. Applications:
+#. Context: Individually in succession
+msgid "One by One"
+msgstr "ഓരോന്നായി"
+
+#. Applications:
+#. Context: A menu choice
+msgid "Options"
+msgstr "ഐച്ഛികങ്ങള്‍"
+
+#. Applications:
+#. Context: To put in structured order
+msgid "Organize"
+msgstr "ക്രമീകരിക്കുക"
+
+#. Applications:
+#. Context: Video clips other than available
+msgid "Other Video Clips"
+msgstr "മറ്റുള്ള ചലചിത്ര ശകലങ്ങള്‍"
+
+#. Applications:
+#. Context: One type of scene mode to take pictures
+msgid "Outdoors"
+msgstr "പുറത്ത്"
+
+#. Applications:
+#. Context: Calls being made from user's mobile
+msgid "Outgoing Calls"
+msgstr "പുറത്തേക്ക് വിളിച്ച വിളികള്‍"
+
+#. Applications:
+#. Context: Type of Keylock
+msgid "Passcode Lock"
+msgstr "രഹസ്യവാക്ക് പൂട്ട്"
+
+#. Applications:
+#. Context: character used for the verification of identity
+msgid "Password"
+msgstr "രഹസ്യവാക്ക്"
+
+#. Applications:
+#. Context: To paste
+msgid "Paste"
+msgstr "ഒട്ടിക്കുക"
+
+#. Applications:
+#. Context: Application to make voice call
+msgid "Phone"
+msgstr "ഫോണ്‍"
+
+#. Applications:
+#. Context: Setting related to voice call
+msgid "Phone Management"
+msgstr "ഫോണ്‍ നടത്തിപ്പ്"
+
+#. Applications:
+#. Context: Number of Phone ie mobile number
+msgid "Phone Number"
+msgstr "ഫോണ്‍ നമ്പര്‍"
+
+#. Applications:
+#. Context: settings of a phone
+msgid "Phone Settings"
+msgstr "ഫോണ്‍ ക്രമീകരണങ്ങള്‍"
+
+#. Applications:
+#. Context: Style of phone-book
+msgid "Phone-book Style"
+msgstr "ഫോണ്‍ബുക്ക് രീതി"
+
+#. Applications:
+#. Context: Message in the form of pictures
+msgid "Picture Messages"
+msgstr "ചിത്ര സന്ദേശങ്ങള്‍"
+
+#. Applications:
+#. Context: After taking picture whether to review the picture
+msgid "Picture Review"
+msgstr "ചിത്രം അവലോകനം"
+
+#. Applications:
+#. Context: Request for PIN code
+msgid "PIN Code Request"
+msgstr "PIN കോട് ആവശ്യപ്പെടല്‍"
+
+#. Applications:
+#. Context: To play music or video
+msgid "Play"
+msgstr "വാദനം"
+
+#. Applications:
+#. Context: List of music or video to be played
+msgid "Playlists"
+msgstr "വാദനപട്ടിക"
+
+#. Applications:
+#. Context: One type of message template
+msgid "Please Call"
+msgstr "ദയവായി വിളിക്കൂ"
+
+#. Applications:
+#. Context: A type of digital media
+msgid "Podcast"
+msgstr "പോഡ്കാസ്റ്റ്"
+
+#. Applications:
+#. Context: Orientation where height is greater than the width
+msgid "Portrait"
+msgstr "ലംബം"
+
+#. Applications:
+#. Context: Action to switch off the phone
+msgid "Power Off"
+msgstr "വൈദ്യുതി നിര്‍ത്തുക"
+
+#. Applications:
+#. Context: A mode of saving the power
+msgid "Power Saving"
+msgstr "ഊര്‍ജ്ജ സംരക്ഷണം"
+
+#. Applications:
+#. Context: How much balance is left in prepaid
+msgid "Prepaid Credit"
+msgstr "മുന്‍കൂര്‍ സമ്പാദ്യം"
+
+#. Applications:
+#. Context: coming before something
+msgid "Previous"
+msgstr "മുമ്പത്തെ"
+
+#. Applications:
+#. Context: To print
+msgid "Print"
+msgstr "അച്ചടി"
+
+#. Applications:
+#. Context: Code of the product
+msgid "Product Code"
+msgstr "ഉല്‍പന്ന കോഡ്"
+
+#. Applications:
+#. Context: Predefined set of values for various purposes eg notification or vpn profile
+msgid "Profile"
+msgstr "രൂപരേഖ"
+
+#. Applications:
+#. Context: Attribute of an object
+msgid "Properties"
+msgstr "സവിശേഷതകള്‍"
+
+#. Applications:
+#. Context: to quit
+msgid "Quit"
+msgstr "രാജിവെയ്ക്കുക"
+
+#. Applications:
+#. Context: Application
+msgid "Radio"
+msgstr "റേഡിയോ"
+
+#. Applications:
+#. Context: To read (in basic phone)
+msgid "Read"
+msgstr "വായിച്ചവ"
+
+#. Applications:
+#. Context: Anything that user has received
+msgid "Received"
+msgstr "ലഭ്യമായവ"
+
+#. Applications:
+#. Context: Calls that are received
+msgid "Received Calls"
+msgstr "ഇങ്ങോട്ടു് വന്ന വിളികള്‍"
+
+#. Applications:
+#. Context: messages that are received
+msgid "Received Messages"
+msgstr "കിട്ടിയ സന്ദേശങ്ങള്‍"
+
+#. Applications:
+#. Context: Page that was visited recently
+msgid "Recently Visited Page"
+msgstr "അടുത്തതായി സന്ദര്‍ശിച്ച താള്‍"
+
+#. Applications:
+#. Context: Type of keyboard eg full querty or reduced
+msgid "Reduced"
+msgstr "കുറച്ചത്"
+
+#. Applications:
+#. Context: To refresh the library content
+msgid "Refresh Library"
+msgstr "ശേഖരം പുതുക്കുക"
+
+#. Applications:
+#. Context: To remind about : call, meeting anything
+msgid "Remind About"
+msgstr "ഓർമ്മിപ്പിക്കുക"
+
+#. Applications:
+#. Context: A message to indicate when one event is going to happen
+msgid "Reminders"
+msgstr "ഓര്‍മ്മപ്പെടുത്തലുകള്‍"
+
+#. Applications:
+#. Context: To remove from album
+msgid "Remove from Album"
+msgstr "ആല്‍ബത്തില്‍ നിന്ന് നീക്കംചെയ്യുക"
+
+#. Applications:
+#. Context: To repeat
+msgid "Repeat"
+msgstr "ആവര്‍ത്തിക്കുക"
+
+#. Applications:
+#. Context: To repeat the alarm
+msgid "Repeat Alarm"
+msgstr "അലാറം വീണ്ടും"
+
+#. Applications:
+#. Context: To repeat all the item
+msgid "Repeat All"
+msgstr "എല്ലാം ആവര്‍ത്തിക്കുക"
+
+#. Applications:
+#. Context: To repeat the song
+msgid "Repeat Song"
+msgstr "പാട്ട് ആവര്‍ത്തിക്കുക"
+
+#. Applications:
+#. Context: To reply
+msgid "Reply"
+msgstr "മറുപടി"
+
+#. Applications:
+#. Context: To reply to all persons present in mail
+msgid "Reply to All"
+msgstr "എല്ലാവര്‍ക്കും മറുപടി"
+
+#. Applications:
+#. Context: To reset all the settings
+msgid "Reset All Settings"
+msgstr "എല്ലാ ക്രമീകരണങ്ങലും പഴയപോലാക്കുക"
+
+#. Applications:
+#. Context: To reset the home screen layout
+msgid "Reset Home Screen Layout"
+msgstr "ആസ്ഥാന സ്ക്രീന്‍ അവസ്ഥ പഴയപോലാക്കുക"
+
+#. Applications:
+#. Context: To reset the keyboard dictionary
+msgid "Reset Keyboard Dictionary"
+msgstr "കീബോഡ് നിഘണ്ടു പഴയപോലാക്കുക"
+
+#. Applications:
+#. Context: To reset the location warning
+msgid "Reset Location Warning"
+msgstr "സ്ഥല മുന്നറിയിപ്പു് പഴയപോലാക്കുക"
+
+#. Applications:
+#. Context: To reset the network setting
+msgid "Reset Network Settings"
+msgstr "ശൃംഖലാ ക്രമീകരണങ്ങള്‍ പഴയപോലാക്കുക"
+
+#. Applications:
+#. Context: To reset the settings
+msgid "Reset Settings"
+msgstr "ക്രമീകരണങ്ങള്‍ പഴയപോലാക്കുക"
+
+#. Applications:
+#. Context: related to camera
+msgid "Resolution"
+msgstr "ദൃശ്യസൂക്ഷ്മത"
+
+#. Applications:
+#. Context: restore of an electronic device to its factory settings
+msgid "Restore Factory Settings"
+msgstr "ഫാക്ടറി ക്രമീകരണത്തിലേക്ക് മാറ്റുക"
+
+#. Applications:
+#. Context: One of the selection key for basic mobile to change short cut
+msgid "Right Selection Key"
+msgstr "വലത് കീ"
+
+#. Applications:
+#. Context: Tone of Ringing
+msgid "Ringing Tone"
+msgstr "റിങ്ങ് ശബ്ദം"
+
+#. Applications:
+#. Context: Volume of Ringing
+msgid "Ringing Volume"
+msgstr "റിങ്ങിങ് ഒച്ച"
+
+#. Applications:
+#. Context: to save
+msgid "Save"
+msgstr "സൂക്ഷിക്കുക"
+
+#. Applications:
+#. Context: To save the massage
+msgid "Save Message"
+msgstr "സന്ദേശം സംരക്ഷിക്കുക"
+
+#. Applications:
+#. Context: Display of Screen
+msgid "Screen Display"
+msgstr "സ്ക്രീനിലെ കാഴ്ച"
+
+#. Applications:
+#. Context: Rotation of screen
+msgid "Screen Rotation"
+msgstr "സ്ക്രീന്‍ കറക്കം"
+
+#. Applications:
+#. Context: An utility that displays some images/text on home screen after a certain time
+msgid "Screen Saver"
+msgstr "സ്ക്രീന്‍ സേവര്‍"
+
+#. Applications:
+#. Context: Messages that are already screened
+msgid "Screened Messages"
+msgstr ""
+
+#. Applications:
+#. Context: To search
+msgid "Search"
+msgstr "തെരയുക"
+
+#. Applications:
+#. Context: To search by (any category wise)
+msgid "Search by"
+msgstr ""
+
+#. Applications:
+#. Context: To search an item by its sender
+msgid "Search by Sender"
+msgstr "അയച്ചയാള്‍ വെച്ച് തെരയുക"
+
+#. Applications:
+#. Context: To search an item by its subject
+msgid "Search by Subject"
+msgstr "വിഷയം വെച്ച് തെരയുക"
+
+#. Applications:
+#. Context: Protection of a device
+msgid "Security"
+msgstr "സുരക്ഷ"
+
+#. Applications:
+#. Context: Codes of Security
+msgid "Security Codes"
+msgstr "സുരക്ഷ കോഡ്"
+
+#. Applications:
+#. Context: Levels of security
+msgid "Security Levels"
+msgstr "സുരക്ഷ തലങ്ങള്‍"
+
+#. Applications:
+#. Context: Setting of the security
+msgid "Security Settings"
+msgstr "സുരക്ഷാക്രമീകരണങ്ങള്‍"
+
+#. Applications:
+#. Context: to select
+msgid "Select"
+msgstr "തെരഞ്ഞെടുക്കുക"
+
+#. Applications:
+#. Context: to select the option
+msgid "Select Option"
+msgstr "ഐച്ഛികം തെരഞ്ഞെടുക്കുക"
+
+#. Applications:
+#. Context: to send
+msgid "Send"
+msgstr "അയയ്ക്കുക"
+
+#. Applications:
+#. Context: To send the contact card
+msgid "Send Contact Card"
+msgstr "വിലാസ കാര്‍ഡ് അയയ്ക്കുക"
+
+#. Applications:
+#. Context: To send anything after
+msgid "Send Later"
+msgstr "പിന്നീട് അയയ്ക്കുക"
+
+#. Applications:
+#. Context: To send the geographical location
+msgid "Send Location"
+msgstr "സ്ഥലം അയയ്ക്കുക"
+
+#. Applications:
+#. Context: To send somebody own caller identity
+msgid "Send my Caller Identity"
+msgstr ""
+
+#. Applications:
+#. Context: To send a message or mail on the list
+msgid "Send to List"
+msgstr "പട്ടികയിലേക്ക് അയയ്ക്കുക"
+
+#. Applications:
+#. Context: To send an item to many persons
+msgid "Send to Many"
+msgstr "പലര്‍ക്ക് അയയ്ക്കുക"
+
+#. Applications:
+#. Context: The person who sends
+msgid "Sender"
+msgstr "അയചയാള്‍"
+
+#. Applications:
+#. Context: Options of Sending an item
+msgid "Sending Options"
+msgstr "അയയ്ക്കല്‍ ഐച്ഛികം"
+
+#. Applications:
+#. Context: Profile for sending anything
+msgid "Sending Profile"
+msgstr "അയക്കല്‍ പ്രൊഫൈല്‍"
+
+#. Applications:
+#. Context: Settings of Sensor
+msgid "Sensor Settings"
+msgstr "സെന്‍സര്‍ ക്രമീകരണങ്ങള്‍"
+
+#. Applications:
+#. Context: Sent folder
+msgid "Sent"
+msgstr "അയച്ചവ"
+
+#. Applications:
+#. Context: Items that are sent
+msgid "Sent Items"
+msgstr "അയച്ച ഇനങ്ങള്‍"
+
+#. Applications:
+#. Context: Folder of messages that are already sent
+msgid "Sent Messages"
+msgstr "അയച്ച സന്ദേശങ്ങള്‍"
+
+#. Applications:
+#. Context: Setting related to message center
+msgid "Service Center"
+msgstr "സേവന കേന്ദ്രം"
+
+#. Applications:
+#. Context: Service that is not active
+msgid "Service Not Active"
+msgstr "സേവനം ലഭ്യമല്ല"
+
+#. Applications:
+#. Context: Status of Service
+msgid "Service Status"
+msgstr "സേവനത്തിന്റെ സ്ഥിതി"
+
+#. Applications:
+#. Context: To set a tone as ring tone
+msgid "Set as Ring Tone"
+msgstr "റിങ്ങ്ടോണാക്കി ക്രമീകരിക്കുക"
+
+#. Applications:
+#. Context: To set the time
+msgid "Set the Time"
+msgstr "സമയം ക്രമീകരിക്കുക"
+
+#. Applications:
+#. Context: configuration to control the functioning of a device
+msgid "Settings"
+msgstr "ക്രമീകരണങ്ങള്‍"
+
+#. Applications:
+#. Context: Preparing an application in mobile to operate
+msgid "Setup"
+msgstr ""
+
+#. Applications:
+#. Context: mix up the song and randomize
+msgid "Shuffle"
+msgstr "കശക്കുക"
+
+#. Applications:
+#. Context: mix up the song and randomize play
+msgid "Shuffle Play"
+msgstr ""
+
+#. Applications:
+#. Context: The process of quitting all apps before power off any device
+msgid "Shutdown"
+msgstr "അടച്ചുപൂട്ടുക"
+
+#. Applications:
+#. Context: Mobile/Network signal
+msgid "Signal"
+msgstr "സിഗ്നല്‍"
+
+#. Applications:
+#. Context: sender's identity
+msgid "Signature"
+msgstr "ഒപ്പ്"
+
+#. Applications:
+#. Context: A profile of mobile
+msgid "Silent"
+msgstr "ശബ്ദരഹിതം"
+
+#. Applications:
+#. Context: A card that stores all information of mobile users (Subscriber identity module Card)
+msgid "SIM Card"
+msgstr "സിം കാര്‍ഡ്"
+
+#. Applications:
+#. Context: On-screen presentation of information
+msgid "Slide Show"
+msgstr "സ്ലൈഡ് കാണിക്കുക"
+
+#. Applications:
+#. Context: Fonts of small size
+msgid "Small Fonts"
+msgstr "ചെറിയ അക്ഷരങ്ങള്‍"
+
+#. Applications:
+#. Context: Multiple option that make dialing smart and quick
+msgid "Smart Dialing"
+msgstr ""
+
+#. Applications:
+#. Context: stylistic representation of a human face used to show different type of emotions
+msgid "Smileys"
+msgstr "ചിരികള്‍"
+
+#. Applications:
+#. Context: Short Message Service
+msgid "SMS"
+msgstr "എസ്എംഎസ്"
+
+#. Applications:
+#. Context: Update of software
+msgid "Software Update"
+msgstr "സോഫ്റ്റ്‌വെയര്‍ പരിഷ്കാരം"
+
+#. Applications:
+#. Context: Version of software
+msgid "Software Version"
+msgstr "സോഫ്റ്റ്വെയര്‍ പതിപ്പ്"
+
+#. Applications:
+#. Context: Details of the song
+msgid "Song Details"
+msgstr "പാട്ടിന്റെ വിവരങ്ങള്‍"
+
+#. Applications:
+#. Context: Song is a composition for voice/voices, performed by singing
+msgid "Songs"
+msgstr "പാട്ടുകള്‍"
+
+#. Applications:
+#. Context: Sound and Ringtone ie sound made by a telephone
+msgid "Sound and Ringtone"
+msgstr "ശബ്ദവും റിങ്ങ്ടോണും"
+
+#. Applications:
+#. Context: Option that gives choice to pronounce caller's name
+msgid "Speaking"
+msgstr "സംസാരിക്കുന്നു"
+
+#. Applications:
+#. Context: Related to contact to call
+msgid "Special"
+msgstr "പ്രത്യേകം"
+
+#. Applications:
+#. Context: A function available on many telephone systems allowing the user to place a call by pressing a reduced number of keys
+msgid "Speed Dialing"
+msgstr "വേഗ ഡയല്‍"
+
+#. Applications:
+#. Context: an application program that flags words in a document that may not be spelled correctly
+msgid "Spell Check"
+msgstr "അക്ഷരത്തെറ്റ് പരിശോധന "
+
+#. Applications:
+#. Context: One type of scene mode
+msgid "Sports"
+msgstr "കായികം"
+
+#. Applications:
+#. Context: An application for calculation
+msgid "Spreadsheet"
+msgstr "സ്പ്രെഡ്ഷീറ്റ്"
+
+#. Applications:
+#. Context: accepted or approved example of something
+msgid "Standard"
+msgstr "ഏകികൃതം"
+
+#. Applications:
+#. Context: To start
+msgid "Start"
+msgstr "തുടക്കം"
+
+#. Applications:
+#. Context: Tone comes when users power on the mobile
+msgid "Startup Tone"
+msgstr "തുടക്കത്തിലെ ശബ്ദം"
+
+#. Applications:
+#. Context: Page comes when browsers start
+msgid "Startup Page"
+msgstr "തുടക്കത്തിലെ പേജ്"
+
+#. Applications:
+#. Context: A feature to enhance audio
+msgid "Stereo Widening"
+msgstr ""
+
+#. Applications:
+#. Context: To stop
+msgid "Stop"
+msgstr "നിര്‍ത്തു"
+
+#. Applications:
+#. Context: Application
+msgid "Stop Watch"
+msgstr ""
+
+#. Applications:
+#. Context: To store pictures
+msgid "Store Pictures"
+msgstr "ചിത്രങ്ങള്‍ സൂക്ഷിക്കുക"
+
+#. Applications:
+#. Context: To switch application
+msgid "Switch Application"
+msgstr ""
+
+#. Applications:
+#. Context: a set of units which can be used to specify anything which can be measured
+msgid "System of Measurement"
+msgstr "അളവുരീതി"
+
+#. Applications:
+#. Context: Tab is one that allows multiple documents to be contained within a single window
+msgid "Tabs"
+msgstr "കിളിവാതിലുകള്‍"
+
+#. Applications:
+#. Context: a physical quantity that is a measure of hotness and coldness on a numerical scale
+msgid "Temperature"
+msgstr "താപനില"
+
+#. Applications:
+#. Context: pre-formatted file on which to base other files, especially messages, documents
+msgid "Templates"
+msgstr "മാതൃകകള്‍"
+
+#. Applications:
+#. Context: Data in words and symbols eg text message
+msgid "Text"
+msgstr "വാചകം"
+
+#. Applications:
+#. Context: custom graphical appearance for certain software, similar to a graphics skin, From here you can select and set your theme
+msgid "Themes"
+msgstr "പ്രമേയങ്ങള്‍"
+
+#. Applications:
+#. Context: reduced-size versions of pictures
+msgid "Thumbnail View"
+msgstr "നഖചിത്ര കാഴ്ച്ച"
+
+#. Applications:
+#. Context: Way of representation of time in different format
+msgid "Time Format"
+msgstr "സമയ രീതി"
+
+#. Applications:
+#. Context: Setting of Time
+msgid "Time Settings"
+msgstr "സമയ ക്രമീകരണങ്ങള്‍"
+
+#. Applications:
+#. Context:  tool to keep track of the time
+msgid "Time Tracker"
+msgstr ""
+
+#. Applications:
+#. Context: Selection of time zone based on user's choice, time zone is area of globe that have same time
+msgid "Time Zone"
+msgstr "സമയമേഘല"
+
+#. Applications:
+#. Context: Defined time period after which one deactivates
+msgid "Time Out"
+msgstr "സമയപരിധി കഴിഞ്ഞു"
+
+#. Applications:
+#. Context: Setting of Tone
+msgid "Tone Settings"
+msgstr "ശബ്ദ ക്രമീകരണങ്ങള്‍"
+
+#. Applications:
+#. Context: Index of Topics
+msgid "Topic Index"
+msgstr "വിഷയസൂചിക"
+
+#. Applications:
+#. Context: Items of any content
+msgid "Topics"
+msgstr "വിഷയങ്ങള്‍"
+
+#. Applications:
+#. Context: Total number of calls
+msgid "Total Calls"
+msgstr "മൊത്തം വിളികള്‍"
+
+#. Applications:
+#. Context: Application
+msgid "Tweeter"
+msgstr "ട്വീറ്റര്‍"
+
+#. Applications:
+#. Context: To unlock
+msgid "Unlock"
+msgstr "പൂട്ടു തുറക്കുക"
+
+#. Applications:
+#. Context: To use
+msgid "Use"
+msgstr "ഉപയോഗം"
+
+#. Applications:
+#. Context: To use the details
+msgid "Use Details"
+msgstr "വിവരങ്ങള്‍ ഉപയോഗിക്കുക"
+
+#. Applications:
+#. Context: To use the image
+msgid "Use Image"
+msgstr "ചിത്രം ഉപയോഗിക്കുക"
+
+#. Applications:
+#. Context: To use the tone
+msgid "Use Tone"
+msgstr "ശബ്ദം ഉപയോഗിയ്ക്കുക"
+
+#. Applications:
+#. Context: An instruction manual to give directions to users about the device
+msgid "User Guide"
+msgstr ""
+
+#. Applications:
+#. Context: A profile of mobile, first vibrate and then ring
+msgid "Vibrate then Ring"
+msgstr ""
+
+#. Applications:
+#. Context: feature of communications devices to notify the user of an incoming connection
+msgid "Vibrating Alert"
+msgstr ""
+
+#. Applications:
+#. Context: Selection of vibration patterns
+msgid "Vibration"
+msgstr "വിറയല്‍"
+
+#. Applications:
+#. Context: Application to view a video
+msgid "Video"
+msgstr "ചലചിത്രം"
+
+#. Applications:
+#. Context: Application to create a video
+msgid "Video Camera"
+msgstr "ചലചിത്ര ക്യാമറ"
+
+#. Applications:
+#. Context: To view all items
+msgid "View All"
+msgstr "എല്ലാം കാണുക"
+
+#. Applications:
+#. Context: To view datewise
+msgid "View by Date"
+msgstr "തീയതിയനുസരിച്ച് കാണുക"
+
+#. Applications:
+#. Context: To view the folder
+msgid "View Folder"
+msgstr "അറ കാണുക"
+
+#. Applications:
+#. Context: To view the message that is saved
+msgid "View Saved Message"
+msgstr "സൂക്ഷിച്ച സന്ദേശം കാണുക"
+
+#. Applications:
+#. Context: To view slideshow
+msgid "View Slideshow"
+msgstr "സ്ലൈഡ്-ഷോ കാണിക്കുക"
+
+#. Applications:
+#. Context: Related to calendar to visit today's schedule
+msgid "View Today"
+msgstr "ഇന്ന് കാണിക്കുക"
+
+#. Applications:
+#. Context: Number for Voice mail box
+msgid "Voice Mail Box Number"
+msgstr ""
+
+#. Applications:
+#. Context: Tones for Warning
+msgid "Warning Tones"
+msgstr "മുന്നറിയിപ്പു് ശബ്ദങ്ങള്‍"
+
+#. Applications:
+#. Context: Comes in conversion from one unit to another, weight is measure of the heaviness
+msgid "Weight"
+msgstr "തൂക്കം"
+
+#. Applications:
+#. Context: A note coming at the beginning when a user first time start any device or application
+msgid "Welcome Note"
+msgstr "സ്വാഗത കുറിപ്പ്"
+
+#. Applications:
+#. Context: A network that allows an electronic device to exchange data wirelessly
+msgid "Wi-Fi Network"
+msgstr "വയര്‍ലെസ് ശൃംഖല"
+
+#. Applications:
+#. Context: Application
+msgid "Yahoo!"
+msgstr "യാഹു!"
+
+#. Applications:
+#. Context: opposite to No
+msgid "Yes"
+msgstr "വേണം"
+
+#. Applications:
+#. Context: Application
+msgid "YouTube"
+msgstr "യൂട്യൂബ്"
+
+#. Applications:
+#. Context: Magnifier feature for anything exists on screen
+msgid "Zoom Mode"
+msgstr "വലുതാക്കുന്ന മട്ട്"
+
