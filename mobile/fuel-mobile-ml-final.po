@@ -1,25 +1,25 @@
 # Balasankar C <c.balasankar@gmail.com>, 2013. #zanata
 # Sunil Kumar  <mbsunilkumar@yahoo.com>,2014
 # S V Ramanunni <sujanika@gmail.com> , 2014
-#Anoop M R <anoopmr5@gmail.com> , 2014
-#N Rishikesan <rishikesan@icfoss.in> , 2014
-#Yesudas B <manakkala.yesudas@gmail.com> , 2014
-#Dr. Markose PP <vpmarkose@uccollege.edu.in> , 2014
-#Dr. Radhika C Nair <radhikacnair@gmail.com> , 2014
-#Manoj K Puthiyavila <puthiyavila@gmail.com> , 2014
-#Sheena Jose A <asheenajose@gmail.com> , 2014
-#P S Rajasekharan <psrajasekharan@gmail.com> , 2014
-#Rajeev R R <rajeev@iiitmk.ac.in> , 2014
-#Deepu V <deepu.v@iiitmk.ac.in> , 2014
-#S Sanjeev <ssanjeev72@gmail.com> , 2014
-#Akhil Krishnan S <mail@akhilan.in> , 2014
-#Sugeesh G <sajsugeesh@gmail.com> , 2014
-#Aneesh Sheela <anish@helloinfinity.com> , 2014
-#Hassainar Mankada <hassainarmankada@gmail.com> , 2014
-#Manoj K <manojkmohanme03107@gmail.com> , 2014
-#Praveen A <praveen@debian.org> , 2014
-#Hrishikesh K B <hrishi.kb@gmail.com> , 2014
-#Anivar Aravind <anivar> , 2014
+# Anoop M R <anoopmr5@gmail.com> , 2014
+# N Rishikesan <rishikesan@icfoss.in> , 2014
+# Yesudas B <manakkala.yesudas@gmail.com> , 2014
+# Dr. Markose PP <vpmarkose@uccollege.edu.in> , 2014
+# Dr. Radhika C Nair <radhikacnair@gmail.com> , 2014
+# Manoj K Puthiyavila <puthiyavila@gmail.com> , 2014
+# Sheena Jose A <asheenajose@gmail.com> , 2014
+# P S Rajasekharan <psrajasekharan@gmail.com> , 2014
+# Rajeev R R <rajeev@iiitmk.ac.in> , 2014
+# Deepu V <deepu.v@iiitmk.ac.in> , 2014
+# S Sanjeev <ssanjeev72@gmail.com> , 2014
+# Akhil Krishnan S <mail@akhilan.in> , 2014
+# Sugeesh G <sajsugeesh@gmail.com> , 2014
+# Aneesh Sheela <anish@helloinfinity.com> , 2014
+# Hassainar Mankada <hassainarmankada@gmail.com> , 2014
+# Manoj K <manojkmohanme03107@gmail.com> , 2014
+# Praveen A <praveen@debian.org> , 2014
+# Hrishikesh K B <hrishi.kb@gmail.com> , 2014
+# Anivar Aravind <anivar> , 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: FUEL Mobile\n"
