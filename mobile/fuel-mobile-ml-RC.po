@@ -14,12 +14,13 @@
 # S Sanjeev <ssanjeev72@gmail.com> , 2014
 # Akhil Krishnan S <mail@akhilan.in> , 2014
 # Sugeesh G <sajsugeesh@gmail.com> , 2014
-# Aneesh Sheela <anish@helloinfinity.com> , 2014
+# Anish Sheela <aneesh.nl@gmail.com> , 2014
 # Hassainar Mankada <hassainarmankada@gmail.com> , 2014
 # Manoj K <manojkmohanme03107@gmail.com> , 2014
 # Praveen A <praveen@debian.org> , 2014
 # Hrishikesh K B <hrishi.kb@gmail.com> , 2014
-# Anivar Aravind <anivar> , 2014
+# Anivar Aravind <anivar.aravind@gmail.com> , 2014
+
 msgid ""
 msgstr ""
 "Project-Id-Version: FUEL Mobile\n"
