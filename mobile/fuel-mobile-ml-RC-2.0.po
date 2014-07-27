@@ -1,0 +1,1761 @@
+#. Context: Clock selection for 12-hour clock
+English: "12 Hour"
+Malayalam: "12 മണിക്കൂര്‍"
+
+#. Context: Clock selection for 24-hour clock
+English: "24 Hour"
+Malayalam: "24 മണിക്കൂര്‍"
+
+#. Context: Information about Application
+English: "About Application"
+Malayalam: "ആപ്ലിക്കേഷനെപ്പറ്റി "
+
+#. Context: It shows accessibility function
+English: "Accessibility"
+Malayalam: "പ്രാപ്യത"
+
+#. Context: To make active
+English: "Activate"
+Malayalam: "സജീവമാക്കൂ"
+
+#. Context: To make active the handset
+English: "Activate Handset"
+Malayalam: "മൊബൈല്‍ സജീവമാക്കൂ"
+
+#. Context: To add bookmark
+English: "Add Bookmark"
+Malayalam: "അടയാളം ചേര്‍ക്കൂ"
+
+#. Context: To add contact
+English: "Add Contact"
+Malayalam: "പേരുചേര്‍ക്കൂ"
+
+#. Context: To add anything new
+English: "Add New"
+Malayalam: "പുതിയവ ചേര്‍ക്കൂ"
+
+#. Context: To add any new device like bluetooth
+English: "Add New Device"
+Malayalam: "പുതിയ ഉപകരണം ചേര്‍ക്കൂ"
+
+#. Context: To add to the album
+English: "Add to Album"
+Malayalam: "ആല്‍ബത്തില്‍ ചേര്‍ക്കൂ"
+
+#. Context: To add to the Contact
+English: "Add to Contact"
+Malayalam: "പേരിലേക്ക് ചേര്‍ക്കൂ"
+
+#. Context: To add to Home Screen
+English: "Add to Home Screen"
+Malayalam: "പൂമുഖത്ത് ചേര്‍ക്കൂ"
+
+#. Context: To add to Playlist
+English: "Add to Playlist"
+Malayalam: "പ്ലേലിസ്റ്റില്‍ ചേര്‍ക്കൂ"
+
+#. Context: Technically Advanced Settings
+English: "Advanced"
+Malayalam: "ഉയര്‍ന്നതലം"  
+
+#. Context: A setting to disable cellular, Wi-Fi, and Bluetooth during plane journey due to technical reason of aircraft operation
+English: "Airplane Mode"
+Malayalam: "വിമാനമോഡ്"
+
+#. Context: Clock with alarm
+English: "Alarm Clock"
+Malayalam: "അലാറം"
+
+#. Context: Alarm is off
+English: "Alarm Off"
+Malayalam: "അലാറം ഇല്ല"
+
+#. Context: Alarm is on
+English: "Alarm On"
+Malayalam: "അലാറം ഉണ്ട്"
+
+#. Context: It is an action of alarm only once means no snooze after that
+English: "Alarm Once"
+Malayalam: "അലാറം ഒരിക്കല്‍"
+
+#. Context: Time of Alarm
+English: "Alarm Time"
+Malayalam: "അലാറസമയം"
+
+#. Context: Tone of Alarm
+English: "Alarm Tone"
+Malayalam: "അലാറശബ്ദം"  
+
+#. Context: A collection of audio, video or pictures related to particular purpose
+English: "Album"
+Malayalam: "ആല്‍ബം"
+
+#. Context: It means everything
+English: "All"
+Malayalam: "എല്ലാം"
+
+#. Context: To do anything in one time
+English: "All at Once"
+Malayalam: "എല്ലാമൊന്നിച്ച്"
+
+#. Context: Marking everything as read
+English: "All Read"
+Malayalam: "എല്ലാം വായിച്ചു"
+
+#. Context: All of the ringtones
+English: "All Ringtones"
+Malayalam: "റിങ്ടോണുകള്‍"
+
+#. Context: All of the songs
+English: "All Songs"
+Malayalam: "പാട്ടുകള്‍"
+
+#. Context: To reply the call
+English: "Answer Call"
+Malayalam: "കോള്‍ എടുക്കൂ"
+
+#. Context: It is like Apps Store
+English: "Application Manager"
+Malayalam: "ആപ്ലിക്കേഷന്‍ മാനേജര്‍ "
+
+#. Context: Network Area
+English: "Area"
+Malayalam: "പ്രദേശം"
+
+#. Context: Network Area Code
+English: "Area Code"
+Malayalam: "പ്രദേശ കോഡ്"
+
+#. Context: Selection of Performer of Music or Video
+English: "Artist"
+Malayalam: "ആര്‍ട്ടിസ്റ്റ്"
+
+#. Context: Selection of Artist and Album
+English: "Artists and Albums"
+Malayalam: "ആര്‍ട്ടിസ്റ്റും ആല്‍ബവും"
+
+#. Context: Moving upward
+English: "Ascending"
+Malayalam: "മേലോട്ട്"
+
+#. Context: automatic
+English: "Auto"
+Malayalam: "താനേ"
+
+#. Context: Automatic update of Date and Time
+English: "Auto-update of Date and Time"
+Malayalam: "ദിവസം, സമയം താനേ പുതുക്കുക"
+
+#. Context: Anything that works without outside control, opposite to manual
+English: "Automatic"
+Malayalam: "താനേ"
+
+#. Context: Keyguard that works automatically
+English: "Automatic Keyguard"
+Malayalam: "താനേ പൂട്ടല്‍"
+
+#. Context: An option to redial automatically
+English: "Automatic Redial"
+Malayalam: "താനേ റീഡയല്‍"
+
+#. Context: A function by which someone retrieve automatically instead manually
+English: "Automatic Retrieval"
+Malayalam: "താനേ വീണ്ടെടുക്കല്‍"
+
+#. Context: to move backward
+English: "Back"
+Malayalam: "പിന്നോട്ട്"
+
+#. Context: Timeout period for backlight screen or button
+English: "Backlight Timeout"
+Malayalam: "തെളിച്ചം എത്രനേരം?"
+
+#. Context: Source of Power of any device
+English: "Battery"
+Malayalam: "ബാറ്ററി"
+
+#. Context: profile for incoming phone calls where tone only beep once
+English: "Beep Once"
+Malayalam: "ഒറ്റ ബീപ്"
+
+#. Context: To block popup
+English: "Block Popup"
+Malayalam: "പോപ്-അപ് തടയൂ"
+
+#. Context: A device
+English: "Bluetooth"
+Malayalam: "ബ്ലൂടൂത്ത്"
+
+#. Context: A preferred selection of links etc that user wants to refer when s/he needs
+English: "Bookmarks"
+Malayalam: "അടയാളങ്ങള്‍"
+
+#. Context: luminance of a screen
+English: "Brightness"
+Malayalam: "തെളിച്ചം"
+
+#. Context: An Application
+English: "Calculator"
+Malayalam: "കാല്‍ക്കുലേറ്റര്‍"
+
+#. Context: An application of electronic calendar
+English: "Calendar"
+Malayalam: "കലണ്ടര്‍"
+
+#. Context: An action to bar a call
+English: "Call Barring"
+Malayalam: "വിളി തടയല്‍"
+
+#. Context: Action to divert call
+English: "Call Divert"
+Malayalam: "വിളി തിരിച്ചുവിടല്‍"
+
+#. Context: Duration of call
+English: "Call Duration"
+Malayalam: "വിളിയുടെ ദൈര്‍ഘ്യം"
+
+#. Context: Log of call
+English: "Call Log"
+Malayalam: "വിളിപ്പട്ടിക"
+
+#. Context: Setting of call
+English: "Call Settings"
+Malayalam: "വിളിയുടെ ക്രമീകരണം"
+
+#. Context: Summary of call
+English: "Call Summary"
+Malayalam: "വിളിവിവരം"
+
+#. Context: Function that stores information like call duration of received, dialed call etc
+English: "Call Timers"
+Malayalam: "വിളി സമയക്കണക്ക്"
+
+#. Context: Function that tracks the call
+English: "Call Trackers"
+Malayalam: "വിളി പിന്തുടരല്‍"
+
+#. Context: function that enable user to suspend the current telephone call and switch to the new incoming call
+English: "Call Waiting"
+Malayalam: "മറ്റൊരു വിളി"
+
+#. Context: An Application to take picture or video in mobile
+English: "Camera"
+Malayalam: "ക്യാമറ"
+
+#. Context: To cancel anything
+English: "Cancel"
+Malayalam: "റദ്ദാക്കൂ"
+
+#. Context: A function by which one can cancel all applied barring
+English: "Cancel All Barrings"
+Malayalam: "എല്ലാ വിലക്കും നീക്കുക"
+
+#. Context: To capture photo or screenshot
+English: "Capture"
+Malayalam: "പടമെടുക്കൂ"
+
+#. Context: Network Vendor
+English: "Carrier"
+Malayalam: "സേവനദാതാവ്"
+
+#. Context: function that display carrier or cell phone information
+English: "Cell Info Display"
+Malayalam: "സെൽവിവരം കാട്ടുക"
+
+#. Context: Action to change the access code
+English: "Change Access Codes"
+Malayalam: "പ്രവേശനകോഡ് മാറ്റൂ"
+
+#. Context: Action to change the barring password
+English: "Change Barring Password"
+Malayalam: "വിലക്കുകോഡ് മാറ്റൂ"
+
+#. Context: Action to change codes
+English: "Change Codes"
+Malayalam: "കോഡുകള്‍ മാറ്റൂ"
+
+#. Context: Action to change PIN codes
+English: "Change PIN Code"
+Malayalam: "PIN കോഡ് മാറ്റൂ"
+
+#. Context: Action to change security codes
+English: "Change Security Codes"
+Malayalam: "സുരക്ഷാകോഡ് മാറ്റൂ"
+
+#. Context: Action to change wall paper
+English: "Change Wall Paper"
+Malayalam: "പശ്ചാത്തലം മാറ്റൂ"
+
+#. Context: Online chat
+English: "Chat"
+Malayalam: "ചാറ്റ്"
+
+#. Context: to check once status related to anything like certificate status etc
+English: "Check Status"
+Malayalam: "അവസ്ഥ പരിശോധിക്കൂ"
+
+#. Context: Clock to be shown on a mobile in classic typical form
+English: "Classic Clock"
+Malayalam: "ഘടികാരം"
+
+#. Context: Action to reset the counter
+English: "Clear Counter"
+Malayalam: "എണ്ണം പുനഃക്രമീകരിക്കൂ"
+
+#. Context: To clear the log
+English: "Clear Log"
+Malayalam: "പട്ടിക മായ്ക്കൂ"
+
+#. Context: To clear the private data
+English: "Clear Private Data"
+Malayalam: "സ്വകാര്യവിവരങ്ങള്‍ മായ്ക്കൂ"
+
+#. Context: Action to remove private information
+English: "Clear Text"
+Malayalam: "ടെക്സ്റ്റ് മായ്ക്കൂ"
+
+#. Context: Action to reset the timers
+English: "Clear Timers"
+Malayalam: "ടൈമര്‍ പുനഃക്രമീകരിക്കൂ"
+
+#. Context: Application
+English: "Clock"
+Malayalam: "ക്ലോക്ക്"
+
+#. Context: Limited user group
+English: "Closed User Group"
+Malayalam: "നിശ്ചിത യൂസര്‍ഗ്രൂപ്പ്"
+
+#. Context: Type of capturing photo, a type of scene mode
+English: "Closeup"
+Malayalam: "ക്ലോസപ്പ്"
+
+#. Context: Different Color Schemes
+English: "Color Schemes"
+Malayalam: "നിറക്കൂട്ടുകള്‍"
+
+#. Context: To write email
+English: "Compose Email"
+Malayalam: "ഇ-മെയില്‍ എഴുതൂ"
+
+#. Context: To write text message
+English: "Compose Text Message"
+Malayalam: "സന്ദേശമെഴുതൂ"
+
+#. Context: A conference call is a telephone call in which the calling party wishes to have more than one called party to join
+English: "Conference Call"
+Malayalam: "സംഘവിളി"
+
+#. Context: To acknowledge
+English: "Confirm"
+Malayalam: "ഉറപ്പാക്കൂ"
+
+#. Context: To acknowledge the delivery
+English: "Confirm Delivery"
+Malayalam: "കിട്ടിയെന്നുറപ്പാക്കൂ"
+
+#. Context: To acknowledge that one is already read
+English: "Confirm Read"
+Malayalam: "വായിച്ചെന്നുറപ്പാക്കൂ"
+
+#. Context: To confirm the SIM Service Action in phone setting
+English: "Confirm SIM Service Action"
+Malayalam: "സിം സേവനം ഉറപ്പാക്കൂ"
+
+#. Context: The act of confirming
+English: "Confirmations"
+Malayalam: "ഉറപ്പാക്കല്‍"
+
+#. Context: Images of Contacts
+English: "Contact Images"
+Malayalam: "ചിത്രം"
+
+#. Context: Name of contacts
+English: "Contact Name"
+Malayalam: "പേര്"
+
+#. Context: menu item for contact search
+English: "Contacts"
+Malayalam: "പേരുകള്‍"
+
+#. Context: Application to convert currency, temperature etc
+English: "Converter"
+Malayalam: "കണ്‍വര്‍ട്ടര്‍"
+
+#. Context: To Copy
+English: "Copy"
+Malayalam: "പകര്‍ത്തൂ"
+
+#.Fuzzy Context: To copy the location
+English: "Copy Location"
+Malayalam: "സ്ഥലവിവരം പകര്‍ത്തൂ"
+
+#. Context: To control the cost of the call or data
+English: "Cost Control"
+Malayalam: "ചെലവുനിയന്ത്രണം"
+
+#. Context: Settings of the Cost
+English: "Cost Settings"
+Malayalam: "ചെലവുക്രമീകരണം"
+
+#. Context: To create message
+English: "Create Message"
+Malayalam: "സന്ദേശം എഴുതൂ"
+
+#. Context: Money of different country eg Rupee, Dollars, Yen etc
+English: "Currency"
+Malayalam: "കറന്‍സി"
+
+#. Context: Services related to internet etc
+English: "Data Services"
+Malayalam: "ഡാറ്റ സേവനങ്ങള്‍"
+
+#. Context: Setting of the Date
+English: "Date Setting"
+Malayalam: "തീയതിക്രമീകരണം"
+
+#. Context: A setting that is automatically given by a device
+English: "Default"
+Malayalam: "തനിമട്ടില്‍"
+
+#. Context: Call Volume set by Default
+English: "Default Call Volume"
+Malayalam: "വിളിയൊച്ച തനിമട്ടില്‍ "
+
+#. Context: Font Size set by Default
+English: "Default Font Size"
+Malayalam: "അക്ഷരവലിപ്പം തനിമട്ടില്‍"
+
+#. Context: Text Encoding set by Default
+English: "Default Text Encoding"
+Malayalam: "ടെക്സ്റ്റ് എൻകോഡിങ്ങ് തനിമട്ടില്‍"
+
+#. Context: To delete
+English: "Delete"
+Malayalam: "കളയുക"
+
+#. Context: To delete messages
+English: "Delete Messages"
+Malayalam: "സന്ദേശങ്ങള്‍ കളയുക"
+
+#. Context: To delete recent call lists
+English: "Delete Recent Call Lists"
+Malayalam: "വിളിപ്പട്ടിക കളയുക"
+
+#. Context: reports about the delivery of messages etc
+English: "Delivery Reports"
+Malayalam: "എത്തിയ വിവരം "
+
+#. Context: A menu item of mobile to update the device
+English: "Device Update"
+Malayalam: "സോഫ്‌‌റ്റ്‌‌വെയര്‍ പുതുക്കല്‍"
+
+#. Context: Shows list of dialed numbers
+English: "Dialed"
+Malayalam: "ഞാന്‍ വിളിച്ചത്"
+
+#. Context: Shows list of dialed numbers
+English: "Dialed Numbers"
+Malayalam: "ഞാന്‍ വിളിച്ചവര്‍"
+
+#. Context: An application that contain alphabetical list of words, its meanings etc
+English: "Dictionary"
+Malayalam: "നിഘണ്ടു"
+
+#. Context: Dictionary is disabled
+English: "Dictionary Off"
+Malayalam: "നിഘണ്ടു വേണ്ട"
+
+#. Context: Clock that shows time in numeric form
+English: "Digital Clock"
+Malayalam: "ഡിജിറ്റല്‍ ക്ലോക്ക്"
+
+#. Context: related to digital photography
+English: "Digital Zoom"
+Malayalam: "ഡിജിറ്റല്‍ സൂം"
+
+#. Context: Related to Bluetooth whether it is search-able
+English: "Discoverable"
+Malayalam: "കണ്ടെത്താവുന്ന"
+
+#. Context: a profile of basic phone
+English: "Discreet"
+Malayalam: "സവിവേകം"
+
+#. Context: To display the details
+English: "Display Detail"
+Malayalam: "വിശദാംശം കാണിക്കുക"
+
+#. Context: Language for Display
+English: "Display Language"
+Malayalam: "കാണേണ്ട ഭാഷ"
+
+#. Context: Settings of the display
+English: "Display Settings"
+Malayalam: "കാഴ്ച ക്രമീകരണം"
+
+#. Context:  collection of contact used as single recipient distribution of emails
+English: "Distribution List"
+Malayalam: "വിതരണപ്പട്ടിക"
+
+#. Context: To divert all the voice calls
+English: "Divert All Voice Calls"
+Malayalam: "വിളികള്‍ തിരിച്ചുവിടുക"
+
+#. Context: To download an image automatically
+English: "Download Image Automatically"
+Malayalam: "ചിത്രം  താനേ ഡൗണ്‍ലോഡ് ചെയ്യുക"
+
+#. Context: A folder where drafts of messages, mails are saved
+English: "Drafts"
+Malayalam: "അയയ്ക്കാത്തവ"
+
+#. Context: used for time duration
+English: "Duration"
+Malayalam: "ദൈര്‍ഘ്യം"
+
+#. Context: Time taken by all calls
+English: "Duration of All Calls"
+Malayalam: "ആകെ വിളികളുടെ ദൈര്‍ഘ്യം"
+
+#. Context: Time taken by dialed calls
+English: "Duration of Dialed Calls"
+Malayalam: "എന്റെ വിളികളുടെ ദൈര്‍ഘ്യം"
+
+#. Context: Time taken by last calls
+English: "Duration of Last Calls"
+Malayalam: "ഒടുവിലത്തെ വിളിയുടെ ദൈര്‍ഘ്യം"
+
+#. Context: Time taken by received calls
+English: "Duration of Received Calls"
+Malayalam: "എടുത്ത വിളികളുടെ ദൈര്‍ഘ്യം"
+
+#. Context: A menu item used for Editing
+English: "Edit"
+Malayalam: "തിരുത്തുക"
+
+#. Context: It manages email account
+English: "Email Account Management"
+Malayalam: "ഇ-മെയില്‍ അക്കൗണ്ടുകള്‍"
+
+#. Context: Filters for email
+English: "Email Filters"
+Malayalam: "ഇ-മെയില്‍ അരിപ്പ"
+
+#. Context: To activate bluetooth
+English: "Enable Bluetooth"
+Malayalam: "ബ്ലൂട്ടൂത്ത് സജീവമാക്കുക"
+
+#. Context: To active geo location
+English: "Enable Geo Location"
+Malayalam: "ജിയോ ലൊക്കേഷൻ സജീവമാക്കുക"
+
+#. Context: To enable Email in HTML
+English: "Enable HTML Email"
+Malayalam: "HTML ഇമെയില്‍ സജീവമാക്കുക"
+
+#. Context: To change data in coded form so that it cannot be read by any unauthorized party
+English: "Encryption"
+Malayalam: "എന്‍ക്രിപ്ഷന്‍"
+
+#. Context:  act of improving something
+English: "Enhancement"
+Malayalam: "സഹായകം"
+
+#. Context: Settings for Enhancement
+English: "Enhancement Settings"
+Malayalam: "സഹായക ക്രമീകരണങ്ങൾ"
+
+#. Context: To enter PIN code
+English: "Enter PIN Code"
+Malayalam: "പിന്‍ കോഡ് നല്‍കുക"
+
+#. Context: To enter recipient
+English: "Enter Recipient"
+Malayalam: "അയയ്ക്കേണ്ട വിലാസം"
+
+#. Context: related to music player
+English: "Equalizer"
+Malayalam: "ഈക്വലൈസർ"
+
+#. Context: To erase all content and settings
+English: "Erase All Contents and Settings"
+Malayalam: "എല്ലാ ഉള്ളടക്കവും ക്രമീകരണവും മായ്ക്കുക"
+
+#. Context: Events that is notified
+English: "Events Notified"
+Malayalam: "അറിയിച്ച സംഭവങ്ങള്‍"
+
+#. Context: To exit from an application
+English: "Exit"
+Malayalam: "പുറത്തിറങ്ങൂ"
+
+#. Context: To exit from the editor
+English: "Exit Editor"
+Malayalam: "തിരുത്തല്‍ മതിയാക്കുക"
+
+#. Context: Fonts with extra large size
+English: "Extra Large Fonts"
+Malayalam: "വളരെ വലിയ അക്ഷരങ്ങള്‍"
+
+#. Context: Used for rest of the application in basic mobile
+English: "Extras"
+Malayalam: "മറ്റുള്ളവ"
+
+#. Context: Application
+English: "Facebook"
+Malayalam: "ഫേസ്ബുക്ക്"
+
+#. Context: Folder to show files on device
+English: "Files"
+Malayalam: "ഫയലുകള്‍"
+
+#. Context: Application
+English: "File Manager"
+Malayalam: "ഫയല്‍ കൈകാര്യം"
+
+#. Context: To find the location
+English: "Find Location"
+Malayalam: "സ്ഥാനം കണ്ടെത്തുക"
+
+#. Context: Application
+English: "Firewall"
+Malayalam: "സുരക്ഷാകവചം"
+
+#. Context: action for locking the dialing
+English: "Fixed Dialing"
+Malayalam: "നിശ്ചിത ഡയലിങ്ങ്"
+
+#. Context: flash of the camera
+English: "Flash"
+Malayalam: "ഫ്ലാഷ്"
+
+#. Context: Application of basic mobile used for torch
+English: "Flash Light"
+Malayalam: "ടോര്‍ച്ച്"
+
+#. Context: Application for sending FM radio waves
+English: "FM Transmitter"
+Malayalam: "എഫ്.എം. പ്രസരണി"
+
+#. Context: Size of font
+English: "Font Size"
+Malayalam: "അക്ഷരവലിപ്പം"
+
+#. Context: To format memory or sd card
+English: "Format"
+Malayalam: "ഫോര്‍മാറ്റ് ചെയ്യുക"
+
+#. Context: To forward a selected message to somebody
+English: "Forward"
+Malayalam: "കൈമാറുക"
+
+#. Context: Label to display the available memory
+English: "Free Memory"
+Malayalam: "മിച്ചമെമ്മറി"
+
+#. Context: Full ie memory is full
+English: "Full"
+Malayalam: "നിറഞ്ഞു"
+
+#. Context: Sound of Game
+English: "Game Sound"
+Malayalam: "ഗെയിം  ഒച്ച"
+
+#. Context: Mobile games
+English: "Games"
+Malayalam: "കളികള്‍"
+
+#. Context: Profile of a basic phone
+English: "General"
+Malayalam: "സാധാരണം"
+
+#. Context: Related to music
+English: "Genres"
+Malayalam: "വിഭാഗങ്ങള്‍"
+
+#. Context: To get direction in a map
+English: "Get Directions"
+Malayalam: "ദിശ കാട്ടുക"
+
+#. Context: to go to somewhere
+English: "Go to"
+Malayalam: "പോവുക"
+
+#. Context: To go to date
+English: "Go to Date"
+Malayalam: "തീയതിയിലേയ്ക്ക്"
+
+#. Context: To go to music store
+English: "Go to Music Store"
+Malayalam: "മ്യൂസിക്ക്സ്റ്റോറിലേയ്ക്ക്"
+
+#. Context: Application
+English: "Google"
+Malayalam: "ഗൂഗിള്‍"
+
+#. Context: Type of Display arrange different items
+English: "Grid View"
+Malayalam: "ഗ്രിഡ് ദൃശ്യം"
+
+#. Context: Equipment used without the help of hands
+English: "Handsfree"
+Malayalam: "ഹാൻഡ്സ് ഫ്രീ"
+
+#. Context: headset is headphones combined with a microphone
+English: "Headset"
+Malayalam: "ഹെഡ്സെറ്റ്"
+
+#. Context: To hide the clock
+English: "Hide Clock"
+Malayalam: "ക്ലോക്ക് മറയ്ക്കുക"
+
+#. Context: Menu Item of Mobile to display previous actions/steps
+English: "History"
+Malayalam: "നാൾവഴി"
+
+#. Context: Main Screen
+English: "Home"
+Malayalam: "പൂമുഖം"
+
+#. Context: Size of Image
+English: "Image Size"
+Malayalam: "ചിത്രത്തിന്റെ വലിപ്പം"
+
+#. Context: To import the pictures
+English: "Import Pictures"
+Malayalam: "ചിത്രങ്ങള്‍ കൊണ്ടുവരിക"
+
+#. Context: Profile of phone
+English: "In Car"
+Malayalam: "കാറില്‍"
+
+#. Context: Feature to show call duration during calls
+English: "In-call Timer"
+Malayalam: "വിളിയുടെ തത്സമയദൈര്‍ഘ്യം"
+
+#. Context: Incoming mails are saved in this folder.
+English: "Inbox"
+Malayalam: "ഇന്‍ബോക്സ്"
+
+#. Context: Setting related to incoming calls
+English: "In-call Settings"
+Malayalam: "വരുന്ന വിളികളുടെ ക്രമീകരണങ്ങൾ"
+
+#. Context: To include sender's identity
+English: "Include Signature"
+Malayalam: "ഒപ്പ് ചേര്‍ക്കുക"
+
+#. Context: Calls from others to the user
+English: "Incoming Calls"
+Malayalam: "വന്ന വിളികള്‍"
+
+#. Context: Service related to information of area or anything
+English: "Info Service"
+Malayalam: "സ്ഥല-വിവര സേവനം"
+
+#. Context: To insert numbers
+English: "Insert Number"
+Malayalam: "അക്കം ചേര്‍ക്കുക"
+
+#. Context: To insert options
+English: "Insert Options"
+Malayalam: "ഉള്‍പ്പെടുത്തല്‍ സൗകര്യങ്ങള്‍"
+
+#. Context: To insert smiley
+English: "Insert Smiley"
+Malayalam: "ഭാവചിത്രം ചേര്‍ക്കുക"
+
+#. Context: To insert symbol
+English: "Insert Symbol"
+Malayalam: "ചിഹ്നം ചേര്‍ക്കുക"
+
+#. Context: To insert template
+English: "Insert Template"
+Malayalam: "രൂപമാതൃക ചേര്‍ക്കുക"
+
+#. Context: files for installation
+English: "Installation Files"
+Malayalam: "ഇന്‍സ്റ്റലേഷ‌‌ന്‍ ഫയലുകള്‍"
+
+#. Context: Settings for installation
+English: "Installation Settings"
+Malayalam: "ഇന്‍സ്റ്റലേഷ‌‌ന്‍ ക്രമീകരണങ്ങള്‍"
+
+#. Context: List of application that are installed
+English: "Installed Apps"
+Malayalam: "ഇന്‍സ്റ്റാളുചെയ്ത പ്രയോഗങ്ങള്‍"
+
+#. Context: the act of instructing
+English: "Instructions"
+Malayalam: "നിര്‍ദ്ദേശങ്ങള്‍"
+
+#. Context: Calls to or from foreign country
+English: "International Calls"
+Malayalam: "രാജ്യാന്തരവിളികള്‍"
+
+#. Context: Internet Protocol Address
+English: "IP Address"
+Malayalam: "ഐപി വിലാസം"
+
+#. Context: Code for keyguard
+English: "Keyguard Code"
+Malayalam: "കീപ്പൂട്ട് കോഡ്"
+
+#. Context: Settings of Keyguard
+English: "Keyguard Settings"
+Malayalam: "കീപ്പൂട്ട്  ക്രമീകരണങ്ങള്‍"
+
+#. Context: A feature that can lock or unlock the keys
+English: "Keylock"
+Malayalam: "കീപ്പൂട്ട്"
+
+#. Context: Keypad is active
+English: "Keypad Active"
+Malayalam: "കീപാഡ് സജീവം"
+
+#. Context: keypad is locked
+English: "Keypad Locked"
+Malayalam: "കീപാഡ് പൂട്ടിയിരിക്കുന്നു"
+
+#. Context: Tones of Keypad
+English: "Keypad Tones"
+Malayalam: "കീപാഡ് ശബ്ദങ്ങള്‍"
+
+#. Context: keypad is unlocked
+English: "Keypad Unlocked"
+Malayalam: "കീപാഡ് തുറന്നു"
+
+#. Context: Related to Camera and photo, orientation where width is greater than the height
+English: "Landscape"
+Malayalam: "കുറുകെ"
+
+#. Context: Human language eg Chinese, French, Hindi
+English: "Language"
+Malayalam: "ഭാഷ"
+
+#. Context: Fonts of large size
+English: "Large Fonts"
+Malayalam: "വലിയ അക്ഷരങ്ങള്‍"
+
+#. Context: most recent call
+English: "Last Call"
+Malayalam: "ഒടുവിലത്തെ വിളി"
+
+#. Context: watched last time
+English: "Last Watched"
+Malayalam: "ഒടുവില്‍ കണ്ടത്"
+
+#. Context: The most recent update
+English: "Latest Update"
+Malayalam: "ഒടുവില്‍ പുതുക്കിയത്"
+
+#. Context: Distance
+English: "Length"
+Malayalam: "ദൂരം"
+
+#. Context: Profile of phone
+English: "Lights Only"
+Malayalam: "പ്രകാശം മാത്രം"
+
+#. Context: series of any items
+English: "List"
+Malayalam: "പട്ടിക"
+
+#. Context: Type of viewing items, contrast to grid view
+English: "List View"
+Malayalam: "പട്ടികദൃശ്യം"
+
+#. Context: To load image from storage
+English: "Load Image"
+Malayalam: "ചിത്രം ലോഡ് ചെയ്യുക"
+
+#. Context: geographical coordinates
+English: "Location"
+Malayalam: "സ്ഥാനം"
+
+#. Context: Service to access user's location
+English: "Location Services"
+Malayalam: "സ്ഥാനപര സേവനങ്ങള്‍"
+
+#. Context: To lock
+English: "Lock"
+Malayalam: "പൂട്ടുക"
+
+#. Context: Profile of phone
+English: "Loud"
+Malayalam: "ഉച്ചത്തില്‍"
+
+#. Context: physical strength of sound
+English: "Loudness"
+Malayalam: "ശബ്ദതീവ്രത"
+
+#. Context: opposite of automatic
+English: "Manual"
+Malayalam: "മാന്വല്‍"
+
+#. Context: representation of a region on plane surface, here on mobile
+English: "Maps"
+Malayalam: "ഭൂപടങ്ങള്‍"
+
+#. Context: an object to store data
+English: "Media"
+Malayalam: "മീഡിയ"
+
+#. Context: a device to play music, video etc
+English: "Media Player"
+Malayalam: "മീഡിയ പ്ലെയര്‍"
+
+#. Context: Related to calendar application
+English: "Meeting"
+Malayalam: "മീറ്റിങ്"
+
+#. Context: Status of memory ie free or full
+English: "Memory Status"
+Malayalam: "മെമ്മറിയുടെ നില"
+
+#. Context: an option list
+English: "Menu"
+Malayalam: "മെനു"
+
+#. Context: That allow to view menu wise
+English: "Menu View"
+Malayalam: "മെനു ദൃശ്യം"
+
+#. Context: Tone of Message Alert
+English: "Message Alert Tone"
+Malayalam: "സന്ദേശശബ്ദം"
+
+#. Context: Counter of Message
+English: "Message Counter"
+Malayalam: "സന്ദേശത്തിന്റെ എണ്ണം"
+
+#. Context: Type of Notifiers of Message
+English: "Message Notifiers"
+Malayalam: "സന്ദേശ അറിയിപ്പുകള്‍"
+
+#. Context: Message which is saved now
+English: "Message Saved"
+Malayalam: "സന്ദേശം സൂക്ഷിച്ചു"
+
+#. Context: setting related to message
+English: "Message Settings"
+Malayalam: "സന്ദേശക്രമീകരണങ്ങള്‍"
+
+#. Context: communication among a one or more persons
+English: "Messages"
+Malayalam: "സന്ദേശങ്ങള്‍"
+
+#. Context: Related to Missed call
+English: "Missed"
+Malayalam: "എടുക്കാത്തവ"
+
+#. Context: Calls that one missed to take
+English: "Missed Calls"
+Malayalam: "എടുക്കാത്ത വിളികള്‍"
+
+#. Context: Multi media Messaging
+English: "MMS"
+Malayalam: "മൾട്ടിമീഡിയ സന്ദേശം"
+
+#. Context: Network available for Mobile device, a radio network distributed over land areas called cells called mobile network
+English: "Mobile Network"
+Malayalam: "മൊബൈല്‍ ശൃംഖല"
+
+#. Context: Model of Device
+English: "Model"
+Malayalam: "മോഡല്‍"
+
+#. Context: to be used to see the details
+English: "More"
+Malayalam: "കൂടുതല്‍"
+
+#. Context: Collection of Music
+English: "Music Library"
+Malayalam: "സംഗീതശേഖരം"
+
+#. Context: application to play music
+English: "Music Player"
+Malayalam: "പാട്ടുപെട്ടി"
+
+#. Context: Button to show my location
+English: "My Location"
+Malayalam: "എന്റെ സ്ഥാനം"
+
+#. Context: Related to contact menu that shows name only
+English: "Name"
+Malayalam: "പേരു്"
+
+#. Context: Related to contact menu that shows name and number both
+English: "Name and Number"
+Malayalam: "പേരും നമ്പരും"
+
+#. Context: List of Name
+English: "Name List"
+Malayalam: "പേരുപട്ടിക"
+
+#. Context: only name nothing else
+English: "Name Only"
+Malayalam: "പേരു മാത്രം"
+
+#. Context: Related to Map
+English: "Navigate to Here"
+Malayalam: "ഇവിടേയ്ക്കുള്ള വഴി"
+
+#. Context: Information related to network and connection
+English: "Network and Connection"
+Malayalam: "ശൃംഖലയും കണക്‌‌ഷനും"
+
+#. Context: Selection of Network
+English: "Network Selection"
+Malayalam: "ശൃംഖല തെരഞ്ഞെടുക്കല്‍"
+
+#. Context: related to calendar to make new appointment
+English: "New Appointment"
+Malayalam: "പുതിയ പരിപാടി"
+
+#. Context: Move forward
+English: "Next"
+Malayalam: "അടുത്തത്"
+
+#. Context: Setting for pictures taken in dark conditions
+English: "Night"
+Malayalam: "രാത്രി"
+
+#. Context: Opposite to Yes
+English: "No"
+Malayalam: "വേണ്ട"
+
+#. Context: Disabling the screening of Messages
+English: "No Screening"
+Malayalam: "പരിശോധന വേണ്ട"
+
+#. Context: No one or not any
+English: "None"
+Malayalam: "ഒന്നുമില്ല"
+
+#. Context: Profile of phone
+English: "Normal"
+Malayalam: "സാധാരണ"
+
+#. Context: a brief record in written form, an application also
+English: "Note"
+Malayalam: "കുറിപ്പ്"
+
+#. Context: Blinking lights to show any notification of mails, messages etc
+English: "Notification Lights"
+Malayalam: "അറിയിപ്പുവിളക്കുകള്‍"
+
+#. Context: When you click on this, device will show currently playing songs/videos
+English: "Now Playing..."
+Malayalam: "ഇപ്പോള്‍ ഓടുന്നത്..."
+
+#. Context: To be used to lock/unlock in basic phones
+English: "Now Press *"
+Malayalam: "ഇനി * അമര്‍ത്തുക"
+
+#. Context: Total no of copy
+English: "Number of Copies"
+Malayalam: "പകര്‍പ്പുകളുടെ എണ്ണം"
+
+#. Context: Mobile number
+English: "Numbers"
+Malayalam: "നമ്പറുകള്‍"
+
+#. Context: Related to address book used for filling office contacts
+English: "Office"
+Malayalam: "കാര്യാലയം"
+
+#. Context: Approval
+English: "OK"
+Malayalam: "ശരി"
+
+#. Context: opposite of Off
+English: "On"
+Malayalam: "ഓണ്‍ "
+
+#. Context: Individually in succession
+English: "One by One"
+Malayalam: "ഒന്നൊന്നായി"
+
+#. Context: A menu choice
+English: "Options"
+Malayalam: "സാധ്യതകള്‍"
+
+#. Context: To put in structured order
+English: "Organize"
+Malayalam: "ക്രമീകരിക്കുക"
+
+#. Context: Video clips other than available
+English: "Other Video Clips"
+Malayalam: "മറ്റു വീഡിയോശകലങ്ങള്‍"
+
+#. Context: One type of scene mode to take pictures
+English: "Outdoors"
+Malayalam: "പുറം"
+
+#. Context: Calls being made from user's mobile
+English: "Outgoing Calls"
+Malayalam: "പുറത്തേക്കുള്ള വിളികള്‍"
+
+#. Context: Type of Keylock
+English: "Passcode Lock"
+Malayalam: "രഹസ്യവാക്കുള്ള പൂട്ട്"
+
+#. Context: character used for the verification of identity
+English: "Password"
+Malayalam: "രഹസ്യവാക്ക്"
+
+#. Context: To paste
+English: "Paste"
+Malayalam: "ഒട്ടിക്കുക"
+ഇ
+#. Context: Application to make voice call
+English: "Phone"
+Malayalam: "ഫോണ്‍"
+
+#. Context: Setting related to voice call
+English: "Phone Management"
+Malayalam: "ഫോണ്‍ കൈകാര്യം"
+
+#. Context: Number of Phone ie mobile number
+English: "Phone Number"
+Malayalam: "ഫോണ്‍ നമ്പര്‍"
+
+#. Context: settings of a phone
+English: "Phone Settings"
+Malayalam: "ഫോണ്‍ ക്രമീകരണങ്ങള്‍"
+
+#. Context: Style of phone-book
+English: "Phone-book Style"
+Malayalam: "ഫോണ്‍ബുക്ക് രീതി"
+
+#. Context: Message in the form of pictures
+English: "Picture Messages"
+Malayalam: "ചിത്രസന്ദേശങ്ങള്‍"
+
+#. Context: After taking picture whether to review the picture
+English: "Picture Review"
+Malayalam: "ചിത്രാവലോകനം"
+
+#. Context: Request for PIN code
+English: "PIN Code Request"
+Malayalam: "PIN കോഡ് ചോദിക്കുക"
+
+#. Context: To play music or video
+English: "Play"
+Malayalam: "പ്ലേ ചെയ്യൂ"
+
+#. Context: List of music or video to be played
+English: "Playlists"
+Malayalam: "പ്ലേലിസ്റ്റ്"
+
+#. Context: One type of message template
+English: "Please Call"
+Malayalam: "ഒന്നു വിളിക്കാമോ?"
+
+#. Context: A type of digital media
+English: "Podcast"
+Malayalam: "പോഡ്കാസ്റ്റ്"
+
+#. Context: Orientation where height is greater than the width
+English: "Portrait"
+Malayalam: "കുത്തനെ"
+
+#. Context: Action to switch off the phone
+English: "Power Off"
+Malayalam: "ഓഫാക്കുക"
+
+#. Context: A mode of saving the power
+English: "Power Saving"
+Malayalam: "ഊര്‍ജ്ജം ലാഭിക്കല്‍"
+
+#. Context: How much balance is left in prepaid
+English: "Prepaid Credit"
+Malayalam: "പ്രീപെയ്ഡില്‍ ബാക്കി"
+
+#. Context: coming before something
+English: "Previous"
+Malayalam: "മുമ്പത്തേത്"
+
+#. Context: To print
+English: "Print"
+Malayalam: "അച്ചടിക്കൂ"
+
+#. Context: Code of the product
+English: "Product Code"
+Malayalam: "പ്രൊഡക്റ്റ് കോഡ്"
+
+#. Context: Predefined set of values for various purposes eg notification or vpn profile
+English: "Profile"
+Malayalam: "പ്രൊഫൈല്‍"
+
+#. Context: Attribute of an object
+English: "Properties"
+Malayalam: "വിശേഷതകള്‍"
+
+#. Context: to quit
+English: "Quit"
+Malayalam: "നിര്‍ത്തിപ്പോരൂ"
+
+#. Context: Application
+English: "Radio"
+Malayalam: "റേഡിയോ"
+
+#. Context: To read (in basic phone)
+English: "Read"
+Malayalam: "വായിക്കൂ"
+
+#. Context: Anything that user has received
+English: "Received"
+Malayalam: "കിട്ടിയവ"
+
+#. Context: Calls that are received
+English: "Received Calls"
+Malayalam: "കിട്ടിയ വിളികള്‍"
+
+#. Context: messages that are received
+English: "Received Messages"
+Malayalam: "കിട്ടിയ സന്ദേശങ്ങള്‍"
+
+#. Context: Page that was visited recently
+English: "Recently Visited Page"
+Malayalam: "അടുത്തിടെ നോക്കിയ താള്‍"
+
+#. Context: Type of keyboard eg full querty or reduced
+English: "Reduced"
+Malayalam: "ചുരുക്കിയത്"
+
+#. Context: To refresh the library content
+English: "Refresh Library"
+Malayalam: "ലൈബ്രറി പുതുക്കൂ"
+
+#. Context: To remind about : call, meeting anything
+English: "Remind About"
+Malayalam: "ഓർമ്മിപ്പിക്കൂ"
+
+#. Context: A message to indicate when one event is going to happen
+English: "Reminders"
+Malayalam: "ഓര്‍ക്കേണ്ടവ"
+
+#. Context: To remove from album
+English: "Remove from Album"
+Malayalam: "ആല്‍ബത്തില്‍നിന്ന് നീക്കൂ"
+
+#. Context: To repeat
+English: "Repeat"
+Malayalam: "ആവര്‍ത്തിക്കൂ"
+
+#. Context: To repeat the alarm
+English: "Repeat Alarm"
+Malayalam: "അലാറം ആവര്‍ത്തിക്കൂ"
+
+#. Context: To repeat all the item
+English: "Repeat All"
+Malayalam: "എല്ലാം ആവര്‍ത്തിക്കൂ"
+
+#. Context: To repeat the song
+English: "Repeat Song"
+Malayalam: "പാട്ട് ആവര്‍ത്തിക്കൂ"
+
+#. Context: To reply
+English: "Reply"
+Malayalam: "മറുപടി"
+
+#. Context: To reply to all persons present in mail
+English: "Reply to All"
+Malayalam: "എല്ലാവര്‍ക്കും മറുപടി"
+
+#. Context: To reset all the settings
+English: "Reset All Settings"
+Malayalam: "എല്ലാം പുനഃക്രമീകരിക്കൂ"
+
+#. Context: To reset the home screen layout
+English: "Reset Home Screen Layout"
+Malayalam: "പൂമുഖവിന്യാസം  പുനഃക്രമീകരിക്കൂ"
+
+#. Context: To reset the keyboard dictionary
+English: "Reset Keyboard Dictionary"
+Malayalam: "കീബോഡ് നിഘണ്ടു പഴയപടിയാക്കൂ"
+
+#. Context: To reset the location warning
+English: "Reset Location Warning"
+Malayalam: "സ്ഥലമുന്നറിയിപ്പ് പുനഃക്രമീകരിക്കൂ"
+
+#. Context: To reset the network setting
+English: "Reset Network Settings"
+Malayalam: "ശൃംഖല പുനഃക്രമീകരിക്കൂ"
+
+#.Fuzzy Context: To reset the settings
+English: "Reset Settings"
+Malayalam: "ക്രമീകരണങ്ങള്‍ പഴയപടിയാക്കൂ"
+
+#. Context: related to camera
+English: "Resolution"
+Malayalam: "ദൃശ്യസാന്ദ്രത"
+
+#. Context: restore of an electronic device to its factory settings
+English: "Restore Factory Settings"
+Malayalam: "ഫാക്ടറിക്രമീകരണമാക്കൂ"
+
+#. Context: One of the selection key for basic mobile to change short cut
+English: "Right Selection Key"
+Malayalam: "വലതു സെലക്‌‌ഷന്‍ കീ"
+
+#. Context: Tone of Ringing
+English: "Ringing Tone"
+Malayalam: "റിങ്ടോണ്‍"
+
+#. Context: Volume of Ringing
+English: "Ringing Volume"
+Malayalam: "റിങ് ഒച്ച"
+
+#. Context: to save
+English: "Save"
+Malayalam: "സൂക്ഷിച്ചുവെക്കൂ"
+
+#. Context: To save the massage
+English: "Save Message"
+Malayalam: "സന്ദേശം സൂക്ഷിച്ചുവെക്കൂ"
+
+#. Context: Display of Screen
+English: "Screen Display"
+Malayalam: "സ്ക്രീന്‍ കാഴ്ച"
+
+#. Context: Rotation of screen
+English: "Screen Rotation"
+Malayalam: "സ്ക്രീന്‍ തിരിക്കല്‍"
+
+#. Context: An utility that displays some images/text on home screen after a certain time
+English: "Screen Saver"
+Malayalam: "സ്ക്രീന്‍ സേവര്‍"
+
+#. Context: Messages that are already screened
+English: "Screened Messages"
+Malayalam: "തടഞ്ഞ സന്ദേശങ്ങള്‍"
+
+#. Context: To search
+English: "Search"
+Malayalam: "തിരയൂ"
+
+#. Context: To search by (any category wise)
+English: "Search by"
+Malayalam: "തിരയേണ്ട പ്രകാരം"
+
+#. Context: To search an item by its sender
+English: "Search by Sender"
+Malayalam: "അയച്ചയാള്‍പ്രകാരം തിരയൂ"
+
+#. Context: To search an item by its subject
+English: "Search by Subject"
+Malayalam: "വിഷയപ്രകാരം തിരയൂ"
+
+#. Context: Protection of a device
+English: "Security"
+Malayalam: "സുരക്ഷ"
+
+#. Context: Codes of Security
+English: "Security Codes"
+Malayalam: "സുരക്ഷാകോഡുകള്‍"
+
+#. Context: Levels of security
+English: "Security Levels"
+Malayalam: "സുരക്ഷാതലങ്ങള്‍"
+
+#. Context: Setting of the security
+English: "Security Settings"
+Malayalam: "സുരക്ഷാക്രമീകരണം"
+
+#. Context: to select
+English: "Select"
+Malayalam: "തിരഞ്ഞെടുക്കൂ"
+
+#. Context: to select the option
+English: "Select Option"
+Malayalam: "ഏത് ഓപ്ഷന്‍?"
+
+#. Context: to send
+English: "Send"
+Malayalam: "അയയ്ക്കൂ"
+
+#. Context: To send the contact card
+English: "Send Contact Card"
+Malayalam: "വിലാസം അയയ്ക്കൂ"
+
+#. Context: To send anything after
+English: "Send Later"
+Malayalam: "പിന്നീട് അയയ്ക്കൂ"
+
+#. Context: To send the geographical location
+English: "Send Location"
+Malayalam: "സ്ഥലവിവരം അയയ്ക്കൂ"
+
+#. Context: To send somebody own caller identity
+English: "Send my Caller Identity"
+Malayalam: "എന്റെ വിവരം അയയ്ക്കൂ"
+
+#. Context: To send a message or mail on the list
+English: "Send to List"
+Malayalam: "ലിസ്റ്റിലുള്ളവര്‍ക്ക് അയയ്ക്കൂ"
+
+#. Context: To send an item to many persons
+English: "Send to Many"
+Malayalam: "പലര്‍ക്ക് അയയ്ക്കൂ"
+
+#. Context: The person who sends
+English: "Sender"
+Malayalam: "അയച്ചയാള്‍"
+
+#. Context: Options of Sending an item
+English: "Sending Options"
+Malayalam: "എങ്ങനെ അയയ്ക്കണം?"
+
+#. Context: Profile for sending anything
+English: "Sending Profile"
+Malayalam: "ഏതു പ്രൊഫൈല്‍?"
+
+#. Context: Settings of Sensor
+English: "Sensor Settings"
+Malayalam: "സെന്‍സര്‍ ക്രമീകരണം"
+
+#. Context: Sent folder
+English: "Sent"
+Malayalam: "അയച്ചവ"
+
+#. Context: Items that are sent
+English: "Sent Items"
+Malayalam: "അയച്ച ഇനങ്ങള്‍"
+
+#. Context: Folder of messages that are already sent
+English: "Sent Messages"
+Malayalam: "അയച്ച സന്ദേശങ്ങള്‍"
+
+#. Context: Setting related to message center
+English: "Service Center"
+Malayalam: "സേവനകേന്ദ്രം"
+
+#. Context: Service that is not active
+English: "Service Not Active"
+Malayalam: "സേവനം സജീവമല്ല"
+
+#. Context: Status of Service
+English: "Service Status"
+Malayalam: "സേവനത്തിന്റെ നില"
+
+#. Context: To set a tone as ring tone
+English: "Set as Ring Tone"
+Malayalam: "റിങ്ടോണാക്കൂ"
+
+#. Context: To set the time
+English: "Set the Time"
+Malayalam: "സമയം ക്രമീകരിക്കൂ"
+
+#. Context: configuration to control the functioning of a device
+English: "Settings"
+Malayalam: "ക്രമീകരണം"
+
+#. Context: Preparing an application in mobile to operate
+English: "Setup"
+Malayalam: "സജ്ജമാക്കുക"
+
+#. Context: mix up the song and randomize
+English: "Shuffle"
+Malayalam: "ഇടകലര്‍ത്തുക"
+
+#. Context: mix up the song and randomize play
+English: "Shuffle Play"
+Malayalam: "ഇടകലര്‍ത്തിപ്പാടൂ"
+
+#. Context: The process of quitting all apps before power off any device
+English: "Shutdown"
+Malayalam: "അടച്ചുപൂട്ടുക"
+
+#. Context: Mobile/Network signal
+English: "Signal"
+Malayalam: "സിഗ്നല്‍"
+
+#. Context: sender's identity
+English: "Signature"
+Malayalam: "ഒപ്പ്"
+
+#. Context: A profile of mobile
+English: "Silent"
+Malayalam: "നിശ്ശബ്ദം"
+
+#. Context: A card that stores all information of mobile users (Subscriber identity module Card)
+English: "SIM Card"
+Malayalam: "സിം കാര്‍ഡ്"
+
+#. Context: On-screen presentation of information
+English: "Slide Show"
+Malayalam: "സ്ലൈഡ് ഷോ"
+
+#. Context: Fonts of small size
+English: "Small Fonts"
+Malayalam: "കുഞ്ഞുലിപി"
+
+#. Context: Multiple option that make dialing smart and quick
+English: "Smart Dialing"
+Malayalam: "സ്മാര്‍ട്ട് ഡയലിങ്"
+
+#. Context: stylistic representation of a human face used to show different type of emotions
+English: "Smileys"
+Malayalam: "ഭാവചിത്രങ്ങള്‍"
+
+#. Context: Short Message Service
+English: "SMS"
+Malayalam: "എസ്എംഎസ്"
+
+#. Context: Update of software
+English: "Software Update"
+Malayalam: "സോഫ്റ്റ്‌വെയര്‍ പുതുക്കല്‍"
+
+#. Context: Version of software
+English: "Software Version"
+Malayalam: "സോഫ്റ്റ്‌വെയര്‍ പതിപ്പ്"
+
+#. Context: Details of the song
+English: "Song Details"
+Malayalam: "പാട്ടുവിവരങ്ങള്‍"
+
+#. Context: Song is a composition for voice/voices, performed by singing
+English: "Songs"
+Malayalam: "പാട്ടുകള്‍"
+
+#. Context: Sound and Ringtone ie sound made by a telephone
+English: "Sound and Ringtone"
+Malayalam: "ശബ്ദവും റിങ്ടോണും"
+
+#. Context: Option that gives choice to pronounce caller's name - 
+English: "Speaking"
+Malayalam: "പേരുപറയൂ"
+
+#. Context: Related to contact to call
+English: "Special"
+Malayalam: "വിശേഷപ്പെട്ട"
+
+#. Context: A function available on many telephone systems allowing the user to place a call by pressing a reduced number of keys
+English: "Speed Dialing"
+Malayalam: "സ്പീഡ് ഡയല്‍"
+
+#. Context: an application program that flags words in a document that may not be spelled correctly
+English: "Spell Check"
+Malayalam: "അക്ഷരപരിശോധന"
+
+#. Context: One type of scene mode
+English: "Sports"
+Malayalam: "കായികം"
+
+#. Context: An application for calculation
+English: "Spreadsheet"
+Malayalam: "സ്‌‌പ്രെഡ്ഷീറ്റ്"
+
+#. Context: accepted or approved example of something
+English: "Standard"
+Malayalam: "മാനകം"
+
+#. Context: To start
+English: "Start"
+Malayalam: "തുടങ്ങൂ"
+
+#. Context: Tone comes when users power on the mobile
+English: "Startup Tone"
+Malayalam: "ആരംഭശബ്ദം"
+
+#. Context: Page comes when browsers start
+English: "Startup Page"
+Malayalam: "ആദ്യതാള്‍"
+
+#. Context: A feature to enhance audio
+English: "Stereo Widening"
+Malayalam: "സ്റ്റീരിയോ വൈഡനിങ്"
+
+#. Context: To stop
+English: "Stop"
+Malayalam: "നിര്‍ത്തൂ"
+
+#. Context: Application
+English: "Stop Watch"
+Malayalam: "സ്റ്റോപ്പ്‌‌ വാച്ച്"
+
+#. Context: To store pictures
+English: "Store Pictures"
+Malayalam: "ചിത്രങ്ങള്‍ സൂക്ഷിക്കൂ"
+
+#. Context: To switch application
+English: "Switch Application"
+Malayalam: "ആപ്ലിക്കേഷന്‍ മാറുക"
+
+#. Context: a set of units which can be used to specify anything which can be measured
+English: "System of Measurement"
+Malayalam: "അളവുരീതി"
+
+#. Context: Tab is one that allows multiple documents to be contained within a single window
+English: "Tabs"
+Malayalam: "ടാബുകള്‍"
+
+#. Context: a physical quantity that is a measure of hotness and coldness on a numerical scale
+English: "Temperature"
+Malayalam: "താപനില"
+
+#. Context: pre-formatted file on which to base other files, especially messages, documents
+English: "Templates"
+Malayalam: "രൂപമാതൃകകള്‍"
+
+#. Context: Data in words and symbols eg text message
+English: "Text"
+Malayalam: "ടെക്സ്റ്റ്"
+
+#. Context: custom graphical appearance for certain software, similar to a graphics skin, From here you can select and set your theme
+English: "Themes"
+Malayalam: "കെട്ടും മട്ടും"
+
+#. Context: reduced-size versions of pictures
+English: "Thumbnail View"
+Malayalam: "നഖചിത്രം"
+
+#. Context: Way of representation of time in different format
+English: "Time Format"
+Malayalam: "സമയഘടന 12/24"
+
+#. Context: Setting of Time
+English: "Time Settings"
+Malayalam: "സമയക്രമീകരണം"
+
+#. Context:  tool to keep track of the time
+English: "Time Tracker"
+Malayalam: "സമയമാപിനി"
+
+#. Context: Selection of time zone based on user's choice, time zone is area of globe that have same time
+English: "Time Zone"
+Malayalam: "സമയമേഖല"
+
+#. Context: Defined time period after which one deactivates
+English: "Time Out"
+Malayalam: "സമയം കഴിഞ്ഞു"
+
+#. Context: Setting of Tone
+English: "Tone Settings"
+Malayalam: "ശബ്ദക്രമീകരണം"
+
+#. Context: Index of Topics
+English: "Topic Index"
+Malayalam: "വിഷയസൂചിക"
+
+#. Context: Items of any content
+English: "Topics"
+Malayalam: "വിഷയങ്ങള്‍"
+
+#. Context: Total number of calls
+English: "Total Calls"
+Malayalam: "എല്ലാ വിളികളും"
+
+#.Fuzzy Context: Application
+English: "Tweeter"
+Malayalam: "ട്വീറ്റര്‍"
+
+#. Context: To unlock
+English: "Unlock"
+Malayalam: "പൂട്ടു തുറക്കൂ"
+
+#. Context: To use
+English: "Use"
+Malayalam: "ഉപയോഗിക്കൂ"
+
+#. Context: To use the details
+English: "Use Details"
+Malayalam: "വിശദാംശം ഉപയോഗിക്കൂ"
+
+#. Context: To use the image
+English: "Use Image"
+Malayalam: "ചിത്രം ഉപയോഗിക്കൂ"
+
+#. Context: To use the tone
+English: "Use Tone"
+Malayalam: "ശബ്ദം ഉപയോഗിക്കൂ"
+
+#. Context: An instruction manual to give directions to users about the device
+English: "User Guide"
+Malayalam: "ഉപയോഗസഹായി"
+
+#.Fuzzy Context: A profile of mobile, first vibrate and then ring
+English: "Vibrate then Ring"
+Malayalam: "കമ്പനം, പിന്നെ ശബ്ദം"
+
+#.Fuzzy Context: feature of communications devices to notify the user of an incoming connection
+English: "Vibrating Alert"
+Malayalam: "കമ്പനം"
+
+#.Fuzzy Context: Selection of vibration patterns
+English: "Vibration"
+Malayalam: "കമ്പനം"  
+
+#. Context: Application to view a video
+English: "Video"
+Malayalam: "വീഡിയോ"
+
+#. Context: Application to create a video
+English: "Video Camera"
+Malayalam: "വീഡിയോക്യാമറ"
+
+#. Context: To view all items
+English: "View All"
+Malayalam: "എല്ലാം കാണിക്കൂ"
+
+#. Context: To view datewise
+English: "View by Date"
+Malayalam: "തീയതിക്രമത്തില്‍"
+
+#. Context: To view the folder
+English: "View Folder"
+Malayalam: "ഫോള്‍ഡര്‍ കാണുക"
+
+#. Context: To view the message that is saved
+English: "View Saved Message"
+Malayalam: "സൂക്ഷിച്ചവ കാണുക"
+
+#. Context: To view slideshow
+English: "View Slideshow"
+Malayalam: "സ്ലൈഡ് പ്രദര്‍ശനം"
+
+#. Context: Related to calendar to visit today's schedule
+English: "View Today"
+Malayalam: "ഇന്നത്തെ പരിപാടി"
+
+#. Context: Number for Voice mail box
+English: "Voice Mail Box Number"
+Malayalam: "വോയ്സ് മെയില്‍ബോക്സ് നമ്പര്‍"
+
+#. Context: Tones for Warning
+English: "Warning Tones"
+Malayalam: "മുന്നറിയിപ്പുശബ്ദങ്ങള്‍"
+
+#. Context: Comes in conversion from one unit to another, weight is measure of the heaviness
+English: "Weight"
+Malayalam: "ഭാരം"
+
+#. Context: A note coming at the beginning when a user first time start any device or application
+English: "Welcome Note"
+Malayalam: "സ്വാഗതവചനം"
+
+#. Context: A network that allows an electronic device to exchange data wirelessly
+English: "Wi-Fi Network"
+Malayalam: "വൈഫൈ ശൃംഖല"
+
+#. Context: Application
+English: "Yahoo!"
+Malayalam: "യാഹൂ!"
+
+#. Context: opposite to No
+English: "Yes"
+Malayalam: "വേണം/അതെ"
+
+#. Context: Application
+English: "YouTube"
+Malayalam: "യൂട്യൂബ്"
+
+#. Context: Magnifier feature for anything exists on screen
+English: "Zoom Mode"
+Malayalam: "സൂം മട്ട്"
+#വലിപ്പം  
+
